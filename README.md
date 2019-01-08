@@ -137,6 +137,8 @@ Machine Learning, Deep Learning, Natural Language Processing (NLP), Data Science
 
 <li><a href="https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471" target="_blank" alt="Blog: Machine Learning is Fun!">Blog: Machine Learning is Fun!</a></li>
 
+<li><a href="https://www.nngroup.com/articles/intelligent-assistant-usability/" target="_blank" alt="Blog: Intelligent Assistants Have Poor Usability: A User Study of Alexa, Google Assistant, and Siri">Blog: Intelligent Assistants Have Poor Usability: A User Study of Alexa, Google Assistant, and Siri</a></li>
+
 </ul>
 
 <ol type="1">
