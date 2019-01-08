@@ -49,6 +49,26 @@ Machine Learning, Deep Learning, Natural Language Processing (NLP), Data Science
 
 </ol>
 
+## Building Blocks of AI technology
+<ol type="1">
+
+<li>Machine Learning</li>
+<ul>
+<li></li>
+</ul>
+
+<li>Deep Learning</li>
+<ul>
+<li></li>
+</ul>
+
+<li>Natural Language Processing (NLP)</li>
+<ul>
+<li></li>
+</ul>
+
+</ol>
+
 ## Useful Resources
 <ul>
 
