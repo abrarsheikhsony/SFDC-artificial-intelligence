@@ -7,7 +7,6 @@ Machine Learning, Deep Learning, Natural Language Processing (NLP), Data Science
 <li>Artificial Intelligence (AI) is the concept of having machines “think like humans”.</li>
 <li>Perform tasks like reasoning, planning, learning, and understanding language.</li>
 <li>The brains behind artificial intelligence is a technology called machine learning.</li>
-<li></li>
 </ul>
 
 ## Applications
@@ -17,6 +16,13 @@ Machine Learning, Deep Learning, Natural Language Processing (NLP), Data Science
 <li>Facebook recommends photo tags using image recognition.</li>
 <li>Waze suggests optimal driving routes using a combination of predictive models, forecasting, and optimization techniques.</li>
 </ul>
+
+## Challenges of AI technology
+<ul>
+<li>It takes a specialized team of data scientists and developers to access the correct data, prepare the data, build the correct models, and then integrate the predictions back into an end-user experience such as CRM.</li>
+</ul>
+
+
 
 ## Useful Resources
 <ul>
