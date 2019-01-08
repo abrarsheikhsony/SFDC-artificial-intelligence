@@ -12,11 +12,9 @@ Machine Learning, Deep Learning, Natural Language Processing (NLP), Data Science
 
 ## Applications
 <ul>
-<li>Amazon Siri and Cortana act as your personal assistants using voice processing.</li>
-<li>Google Home act as your personal assistants using voice processing.</li>
-<li>Amazon Echo Alexa act as your personal assistants using voice processing.</li>
-<li>Facebook recommends photo tags using image recognition.</li>
+<li>Apple Siri, Cortana, Google Home, Amazon Echo Alexa act as your personal assistants using voice processing.</li>
 <li>Amazon recommends products using machine learning algorithms.</li>
+<li>Facebook recommends photo tags using image recognition.</li>
 <li>Waze suggests optimal driving routes using a combination of predictive models, forecasting, and optimization techniques.</li>
 </ul>
 
