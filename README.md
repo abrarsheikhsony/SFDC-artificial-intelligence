@@ -63,12 +63,23 @@ Machine Learning, Deep Learning, Natural Language Processing (NLP), Data Science
 
 <li>Deep Learning</li>
 <ul>
-<li></li>
+<li>Deep learning is AI that uses complex algorithms to perform tasks in domains where it actually learns the domain with little or no human supervision.</li>
+<li>In essence, the machine learns how to learn.</li>
+<li>Most practical applications are based on image analysis.</li>
+<li>With image analysis, a computer learns to classify random images by analyzing thousands or millions of other images and their data points.</li>
+<li>Examples: Google Photos and Facebook use deep learning to power face recognition in photos.</li>
+<li>Sales — It can analyze product images attached to a deal and use that information to suggest the best upsell and cross-sell opportunities.</li>
+<li>Service — It can analyze images of a product attached to a service case and use the information to classify the case and route it to the right agent.</li>
+<li>Marketing — It can analyze images across Facebook, Pinterest, and Twitter to suggest the best visuals for an upcoming advertising campaign. It can even identify brands in the images whether or not they’re mentioned in the text.</li>
 </ul>
 
 <li>Natural Language Processing (NLP)</li>
 <ul>
-<li></li>
+<li>NLP is AI that recognizes language and its many usage and grammar rules by finding patterns within large datasets.</li>
+<li>Example: One application of NLP that’s gaining traction is sentiment analysis within social media. Computers use algorithms to look for patterns in user posts across Twitter, Facebook, or other social networks to understand how customers feel about a specific brand or product.</li>
+<li>Sales — NLP can dig through the text of emails exchanged with customers to estimate the likelihood of a potential sale, detect the best possible deals, identify deals a team is at greatest risk of losing, and provide recommended actions to improve the sales process.</li>
+<li>Service — NLP can help route and more efficiently respond to customer emails by analyzing the written content.</li>
+<li>Marketing — NLP can be used for sentiment analysis on text to understand how customers feel about your specific brand and products.</li>
 </ul>
 
 </ol>
