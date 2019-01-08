@@ -14,7 +14,7 @@ Machine Learning, Deep Learning, Natural Language Processing (NLP), Data Science
 <li>Apple Siri, Microsoft Cortana, Google Home, Amazon Echo Alexa act as your personal assistants using voice processing.</li>
 <li>Amazon recommends products using machine learning algorithms.</li>
 <li>Facebook recommends photo tags using image recognition.</li>
-<li>Waze suggests optimal driving routes using a combination of predictive models, forecasting, and optimization techniques.</li>
+<li>Waze (a GPS and maps app) suggests optimal driving routes using a combination of predictive models, forecasting, and optimization techniques.</li>
 </ul>
 
 ## Challenges of AI technology
