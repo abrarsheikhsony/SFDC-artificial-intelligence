@@ -29,6 +29,26 @@ Machine Learning, Deep Learning, Natural Language Processing (NLP), Data Science
 <li>Assign significant resources and infrastructure to tackle it.</li>
 </ol>
 
+## What AI can give you that you don't have yet?
+<ol type="1">
+
+<li>Predictive Scoring</li>
+<ul>
+<li>When Einstein gives you a score, it will also give you insight into how it was arrived at. For example, predictive lead scoring gives each sales lead a score representing the likelihood it will convert into an opportunity. You also get the reasons behind the score — for instance the lead source, the industry, or some other factor is an especially strong indicator that a lead will or won’t convert.</li>
+</ul>
+
+<li>Forecasting</li>
+<ul>
+<li>he predictive capabilities of AI aren’t limited to scoring; they can also be used to predict the future value of something, like a stock portfolio or a real estate investment. If you’re a sales manager, AI can predict your quarterly bookings and let you know ahead of time whether or not your team is on track to meet its quota.</li>
+</ul>
+
+<li>Recommendations</li>
+<ul>
+<li>Anyone who shops online knows that AI makes suggestions for retail purchases, but it can also make smart recommendations for any other product or service category from business software to tax consulting to cargo containers. And AI can also recommend things other than products — for instance, which white paper you should email a prospect in order to optimize your chance to close a deal.</li>
+</ul>
+
+</ol>
+
 ## Useful Resources
 <ul>
 
