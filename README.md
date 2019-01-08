@@ -8,11 +8,16 @@ Machine Learning, Deep Learning, Natural Language Processing (NLP), Data Science
 <li>Perform tasks like reasoning, planning, learning, and understanding language.</li>
 <li>The brains behind artificial intelligence is a technology called machine learning.</li>
 <li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
+</ul>
+
+## Applications
+<ul>
+<li>Amazon Siri and Cortana act as your personal assistants using voice processing.</li>
+<li>Google Home act as your personal assistants using voice processing.</li>
+<li>Amazon Echo Alexa act as your personal assistants using voice processing.</li>
+<li>Facebook recommends photo tags using image recognition.</li>
+<li>Amazon recommends products using machine learning algorithms.</li>
+<li>Waze suggests optimal driving routes using a combination of predictive models, forecasting, and optimization techniques.</li>
 </ul>
 
 ## Useful Resources
