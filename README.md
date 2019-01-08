@@ -7,6 +7,7 @@ Machine Learning, Deep Learning, Natural Language Processing (NLP), Data Science
 <li>We are at an evolutionary tipping point. Artificial Intelligence (AI) represents a paradigm shift, disruption "or" massive change in technology.</li>
 <li>AI is the concept of having machines “think like humans”.</li>
 <li>Perform tasks like reasoning, planning, learning, and understanding language.</li>
+<li>AI is about building intelligent computer programs that carry out tasks like: Visual perception, Speech recognition, Sentiment analysis</li>  
 <li>The brains behind artificial intelligence is a technology called machine learning.</li>
 <li>AI is not killer robots. It’s killer technology!</li>
 <li>AI is finally possible because of: Cloud Computing, general problem solver, paradigm shift.</li>
