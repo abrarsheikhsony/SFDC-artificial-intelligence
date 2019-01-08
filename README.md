@@ -9,6 +9,7 @@ Machine Learning, Deep Learning, Natural Language Processing (NLP), Data Science
 <li>Perform tasks like reasoning, planning, learning, and understanding language.</li>
 <li>The brains behind artificial intelligence is a technology called machine learning.</li>
 <li>AI is not killer robots. It’s killer technology!</li>
+<li>AI is finally possible because of: Cloud Computing, general problem solver, paradigm shift.</li>
 </ul>
 
 ## Applications
