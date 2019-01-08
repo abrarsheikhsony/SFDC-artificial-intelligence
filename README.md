@@ -54,7 +54,11 @@ Machine Learning, Deep Learning, Natural Language Processing (NLP), Data Science
 
 <li>Machine Learning</li>
 <ul>
-<li></li>
+<li>Machine learning is the core driver of AI. It’s the concept of having computers learn from data with minimal programming.</li>
+<li>Machine learning works with structured data to detect patterns that provide insight and personalized recommendations.</li>
+<li>Sales — It can analyze information from email, calendars, and CRM data to proactively recommend actions like the best email response to move a deal forward.</li>
+<li>Service — It can automatically classify cases and intelligently route them to the right service agent.</li>
+<li>Marketing — It can intelligently score the likelihood of a customer to open an email, subscribe to a newsletter, or make a purchase.</li>
 </ul>
 
 <li>Deep Learning</li>
