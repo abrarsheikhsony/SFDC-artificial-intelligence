@@ -39,7 +39,7 @@ Machine Learning, Deep Learning, Natural Language Processing (NLP), Data Science
 
 <li>Forecasting</li>
 <ul>
-<li>he predictive capabilities of AI aren’t limited to scoring; they can also be used to predict the future value of something, like a stock portfolio or a real estate investment. If you’re a sales manager, AI can predict your quarterly bookings and let you know ahead of time whether or not your team is on track to meet its quota.</li>
+<li>The predictive capabilities of AI aren’t limited to scoring; they can also be used to predict the future value of something, like a stock portfolio or a real estate investment. If you’re a sales manager, AI can predict your quarterly bookings and let you know ahead of time whether or not your team is on track to meet its quota.</li>
 </ul>
 
 <li>Recommendations</li>
