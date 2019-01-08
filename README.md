@@ -107,6 +107,9 @@ Machine Learning, Deep Learning, Natural Language Processing (NLP), Data Science
 <li>Natural Language Processing (NLP)</li>
 <ul>
 <li>NLP is AI that recognizes language and its many usage and grammar rules by finding patterns within large datasets.</li>
+<li>It can perform sentiment analysis, where algorithms look for patterns in social media postings to understand how customers feel about a specific brand or product.</li>
+<li>It handles speech recognition, providing a text summary derived from “listening” to an audio clip of a human speaking.</li>
+<li>I conducts question answering, typically handling those questions with a specific answer (for example, What is the square root of 4?), but also exploring how to handle more complex and open-ended questions.</li>
 <li>Example: One application of NLP that’s gaining traction is sentiment analysis within social media. Computers use algorithms to look for patterns in user posts across Twitter, Facebook, or other social networks to understand how customers feel about a specific brand or product.</li>
 <li>Sales — NLP can dig through the text of emails exchanged with customers to estimate the likelihood of a potential sale, detect the best possible deals, identify deals a team is at greatest risk of losing, and provide recommended actions to improve the sales process.</li>
 <li>Service — NLP can help route and more efficiently respond to customer emails by analyzing the written content.</li>
@@ -124,11 +127,15 @@ Machine Learning, Deep Learning, Natural Language Processing (NLP), Data Science
 
 <li><a href="https://www.youtube.com/channel/UCbyiIf8hImU-I7zWl-i7OGw" target="_blank" alt="YouTube: TactAI">YouTube: TactAI</a></li>
 
+<li><a href="https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471" target="_blank" alt="Video: AI, Deep Learning, and Machine Learning: A Primer">Video: AI, Deep Learning, and Machine Learning: A Primer</a></li>
+
 <li><a href="https://www.salesforce.com/products/einstein/ai-deep-dive/" target="_blank" alt="Salesforce: Take a deep dive into artificial intelligence">Salesforce Blog: Take a deep dive into artificial intelligence</a></li>
 
 <li><a href="https://trailhead.salesforce.com/content/learn/trails/get_smart_einstein" target="_blank" alt="Salesforce Trailhead: Get Smart with Salesforce Einstein">Salesforce Trailhead: Get Smart with Salesforce Einstein</a></li>
 
 <li><a href="https://trailhead.salesforce.com/content/learn/trails/explore-deep-learning-for-nlp" target="_blank" alt="Salesforce Trailhead: Explore Deep Learning for Natural Language Processing">Salesforce Trailhead: Explore Deep Learning for Natural Language Processing</a></li>
+
+<li><a href="https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471" target="_blank" alt="Blog: Machine Learning is Fun!">Blog: Machine Learning is Fun!</a></li>
 
 </ul>
 
