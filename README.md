@@ -95,6 +95,7 @@ Machine Learning, Deep Learning, Natural Language Processing (NLP), Data Science
 <ul>
 <li>Deep learning is AI that uses complex algorithms to perform tasks in domains where it actually learns the domain with little or no human supervision.</li>
 <li>In essence, the machine learns how to learn.</li>
+<li>Deep learning is great at automatically learning the best features from somewhat noisy data (read: unstructured) so that algorithms can learn more effectively.</li>
 <li>Most practical applications are based on image analysis.</li>
 <li>With image analysis, a computer learns to classify random images by analyzing thousands or millions of other images and their data points.</li>
 <li>Examples: Google Photos and Facebook use deep learning to power face recognition in photos.</li>
