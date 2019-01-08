@@ -4,7 +4,8 @@ Machine Learning, Deep Learning, Natural Language Processing (NLP), Data Science
 
 ## Introduction
 <ul>
-<li>Artificial Intelligence (AI) is the concept of having machines “think like humans”.</li>
+<li>Artificial Intelligence (AI) represents a paradigm shift, disruption "or" massive change in technology.</li>
+<li>AI is the concept of having machines “think like humans”.</li>
 <li>Perform tasks like reasoning, planning, learning, and understanding language.</li>
 <li>The brains behind artificial intelligence is a technology called machine learning.</li>
 </ul>
