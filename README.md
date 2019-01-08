@@ -22,7 +22,12 @@ Machine Learning, Deep Learning, Natural Language Processing (NLP), Data Science
 <li>It takes a specialized team of data scientists and developers to access the correct data, prepare the data, build the correct models, and then integrate the predictions back into an end-user experience such as CRM.</li>
 </ul>
 
-
+## What does it take to kick off an AI project?
+<ol type="1">
+<li>Frame the business problem.</li>
+<li>Figure out the data that’s available to solve the problem</li>
+<li>Assign significant resources and infrastructure to tackle it.</li>
+</ol>
 
 ## Useful Resources
 <ul>
