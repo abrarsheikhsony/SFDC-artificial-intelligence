@@ -8,6 +8,7 @@ Machine Learning, Deep Learning, Natural Language Processing (NLP), Data Science
 <li>AI is the concept of having machines “think like humans”.</li>
 <li>Perform tasks like reasoning, planning, learning, and understanding language.</li>
 <li>The brains behind artificial intelligence is a technology called machine learning.</li>
+<li>AI is not killer robots. It’s killer technology!</li>
 </ul>
 
 ## Applications
