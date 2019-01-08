@@ -19,6 +19,32 @@ Machine Learning, Deep Learning, Natural Language Processing (NLP), Data Science
 <li>Waze (a GPS and maps app) suggests optimal driving routes using a combination of predictive models, forecasting, and optimization techniques.</li>
 </ul>
 
+## AI in CRM
+<ul>
+
+<li>Sales</li>
+<ul>
+<li>Automatically capture sales activities.</li>
+<li>Automatically log customer data.</li>
+<li>Suggest next-best actions and recommended email responses.</li>
+</ul>
+
+<li>Service</li>
+<ul>
+<li>Automatically classify and route cases.</li>
+<li>Recommend solutions and knowledge articles.</li>
+<li>Self-service communities and automated assistants.</li>
+</ul>
+
+<li>Marketing</li>
+<ul>
+<li>Automatically score likelihood to open an email or subscribe to a newsletter.</li>
+<li>Deliver the next best product, content, or offer.</li>
+<li>Send messages at the right time, when a customer is most likely to engage.</li>
+</ul>
+
+</ul>
+
 ## Challenges of AI technology
 <ul>
 <li>It takes a specialized team of data scientists and developers to access the correct data, prepare the data, build the correct models, and then integrate the predictions back into an end-user experience such as CRM.</li>
