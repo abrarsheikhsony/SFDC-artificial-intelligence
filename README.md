@@ -19,7 +19,7 @@ Machine Learning, Deep Learning, Natural Language Processing (NLP), Data Science
 <li>Waze (a GPS and maps app) suggests optimal driving routes using a combination of predictive models, forecasting, and optimization techniques.</li>
 </ul>
 
-## AI in CRM
+## Use Cases in CRM
 <ul>
 
 <li>Sales</li>
