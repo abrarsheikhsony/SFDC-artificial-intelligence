@@ -127,6 +127,9 @@ Machine Learning, Deep Learning, Natural Language Processing (NLP), Data Science
 
 <li><a href="https://www.youtube.com/channel/UCbyiIf8hImU-I7zWl-i7OGw" target="_blank" alt="YouTube: TactAI">YouTube: TactAI</a></li>
 
+
+
+
 <li><a href="https://www.salesforce.com/products/einstein/ai-deep-dive/" target="_blank" alt="Salesforce: Take a deep dive into artificial intelligence">Salesforce Blog: Take a deep dive into artificial intelligence</a></li>
 
 <li><a href="https://trailhead.salesforce.com/content/learn/trails/get_smart_einstein" target="_blank" alt="Salesforce Trailhead: Get Smart with Salesforce Einstein">Salesforce Trailhead: Get Smart with Salesforce Einstein</a></li>
@@ -134,6 +137,28 @@ Machine Learning, Deep Learning, Natural Language Processing (NLP), Data Science
 <li><a href="https://trailhead.salesforce.com/content/learn/trails/explore-deep-learning-for-nlp" target="_blank" alt="Salesforce Trailhead: Explore Deep Learning for Natural Language Processing">Salesforce Trailhead: Explore Deep Learning for Natural Language Processing</a></li>
 
 <li><a href="https://developer.salesforce.com/events/webinars/predictivevisionservice?d=7010M000001y9mg" target="_blank" alt="Salesforce Blog: Build Smarter Apps with New Predictive Vision Service">Salesforce Blog: Build Smarter Apps with New Predictive Vision Service</a></li>
+
+
+<li><a href="https://einstein.ai/" target="_blank" alt="einstein.ai">einstein.ai</a></li>
+
+<li><a href="https://metamind.readme.io/" target="_blank" alt="metamind.readme.io">metamind.readme.io</a></li>
+
+<li><a href="https://www.ibm.com/watson/ibm-salesforce/" target="_blank" alt="Watson Solutions for Salesforce">Watson Solutions for Salesforce</a></li>
+
+<li><a href="https://www.salesforce.com/campaign/ibm/" target="_blank" alt="IBM and Salesforce Strengthen Strategic Partnership">IBM and Salesforce Strengthen Strategic Partnership</a></li>
+
+<li><a href="https://www.salesforce.com/blog/2017/03/ibm-salesforce-strategic-partnership" target="_blank" alt="IBM and Salesforce Announce Landmark Global Strategic Partnership">IBM and Salesforce Announce Landmark Global Strategic Partnership</a></li>
+
+<li><a href="https://www.salesforce.com/video/195071/" target="_blank" alt="Salesforce + IBM + Watson: The Cognitive Customer-Activated Enterprise">Salesforce + IBM + Watson: The Cognitive Customer-Activated Enterprise</a></li>
+
+<li><a href="https://www.salesforce.com/video/3379030/" target="_blank" alt="Salesforce Einstein Keynote: Meet Your Smart CRM Assistant">Salesforce Einstein Keynote: Meet Your Smart CRM Assistant</a></li>
+
+<li><a href="https://venturebeat.com/2016/04/04/salesforce-buys-hot-deep-learning-startup-metamind-services-shutting-down-may-4/" target="_blank" alt="Salesforce buys hot deep learning startup MetaMind, services shutting down May 4">Salesforce buys hot deep learning startup MetaMind, services shutting down May 4</a></li>
+
+<li><a href="https://www.businessinsider.com/salesforce-spent-75-million-on-acquisitions-in-q2-2016-5?r=US&IR=T" target="_blank" alt="Salesforce reveals it spent $75 million on the three startups it bought last quarter">Salesforce reveals it spent $75 million on the three startups it bought last quarter</a></li>
+
+
+
 
 <li><a href="https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471" target="_blank" alt="Blog: Machine Learning is Fun!">Blog: Machine Learning is Fun!</a></li>
 
