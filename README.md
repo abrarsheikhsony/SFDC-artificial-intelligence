@@ -135,6 +135,8 @@ Machine Learning, Deep Learning, Natural Language Processing (NLP), Data Science
 
 <li><a href="https://trailhead.salesforce.com/content/learn/trails/explore-deep-learning-for-nlp" target="_blank" alt="Salesforce Trailhead: Explore Deep Learning for Natural Language Processing">Salesforce Trailhead: Explore Deep Learning for Natural Language Processing</a></li>
 
+<li><a href="https://developer.salesforce.com/events/webinars/predictivevisionservice?d=7010M000001y9mg" target="_blank" alt="Salesforce Blog: Build Smarter Apps with New Predictive Vision Service">Salesforce Blog: Build Smarter Apps with New Predictive Vision Service</a></li>
+
 <li><a href="https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471" target="_blank" alt="Blog: Machine Learning is Fun!">Blog: Machine Learning is Fun!</a></li>
 
 <li><a href="https://www.nngroup.com/articles/intelligent-assistant-usability/" target="_blank" alt="Blog: Intelligent Assistants Have Poor Usability: A User Study of Alexa, Google Assistant, and Siri">Blog: Intelligent Assistants Have Poor Usability: A User Study of Alexa, Google Assistant, and Siri</a></li>
