@@ -127,8 +127,6 @@ Machine Learning, Deep Learning, Natural Language Processing (NLP), Data Science
 
 <li><a href="https://www.youtube.com/channel/UCbyiIf8hImU-I7zWl-i7OGw" target="_blank" alt="YouTube: TactAI">YouTube: TactAI</a></li>
 
-<li><a href="https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471" target="_blank" alt="Video: AI, Deep Learning, and Machine Learning: A Primer">Video: AI, Deep Learning, and Machine Learning: A Primer</a></li>
-
 <li><a href="https://www.salesforce.com/products/einstein/ai-deep-dive/" target="_blank" alt="Salesforce: Take a deep dive into artificial intelligence">Salesforce Blog: Take a deep dive into artificial intelligence</a></li>
 
 <li><a href="https://trailhead.salesforce.com/content/learn/trails/get_smart_einstein" target="_blank" alt="Salesforce Trailhead: Get Smart with Salesforce Einstein">Salesforce Trailhead: Get Smart with Salesforce Einstein</a></li>
