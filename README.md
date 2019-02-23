@@ -156,6 +156,22 @@ Machine Learning, Deep Learning, Natural Language Processing (NLP), Data Science
 
 </ul>
 
+## Salesforce Winter '19 Release
+<ul>
+
+<li><a href="https://releasenotes.docs.salesforce.com/en-us/winter19/release-notes/rn_einstein.htm" target="_blank" alt="Einstein features in Winter '19">Einstein features in Winter '19</a></li>
+
+<li><a href="https://releasenotes.docs.salesforce.com/en-us/winter19/release-notes/rn_service.htm" target="_blank" alt="Service Cloud features in Winter '19">Service Cloud features in Winter '19</a></li>
+
+</ul>
+
+## Salesforce Spring '19 Release
+<ul>
+
+<li><a href="https://releasenotes.docs.salesforce.com/en-us/spring19/release-notes/rn_service_einstein.htm" target="_blank" alt="Einstein features in Spring '19">Einstein features in Spring '19</a></li>
+
+</ul>
+
 ## IBM Watson & Salesforce
 <ul>
 
