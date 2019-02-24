@@ -132,37 +132,27 @@ Machine Learning, Deep Learning, Natural Language Processing (NLP), Data Science
 ## Salesforce Trailhead
 <ul>
 
-<li><a href="https://trailhead.salesforce.com/content/learn/trails/get_smart_einstein" target="_blank" alt="Get Smart with Salesforce Einstein">Get Smart with Salesforce Einstein</a></li>
+<li>Salesforce Einstein</li>
 
-<li><a href="https://trailhead.salesforce.com/content/learn/trails/explore-deep-learning-for-nlp" target="_blank" alt="Explore Deep Learning for Natural Language Processing">Explore Deep Learning for Natural Language Processing</a></li>
-
-<li><a href="https://trailhead.salesforce.com/en/content/learn/superbadges/superbadge_analytics_insights_specialist" target="_blank" alt="Einstein Analytics and Discovery Insights Specialist">Einstein Analytics and Discovery Insights Specialist</a></li>
-
-<li><a href="https://trailhead.salesforce.com/en/content/learn/superbadges/superbadge_analytics_integration_specialist" target="_blank" alt="Einstein Analytics Data Preparation Specialist">Einstein Analytics Data Preparation Specialist</a></li>
-
+<ul>
 <li><a href="TEST" target="_blank" alt="TEST">TEST</a></li>
+</ul>
 
-<li><a href="TEST" target="_blank" alt="TEST">TEST</a></li>
+<li>Salesforce Einstein Analytics</li>
 
+<ul>
 <li><a href="TEST" target="_blank" alt="TEST">TEST</a></li>
+</ul>
+
 
 </ul>
 
-## Salesforce Einstein
+## Salesforce Einstein & MetaMind
 <ul>
 
 <li><a href="https://metamind.readme.io/" target="_blank" alt="metamind.readme.io">metamind.readme.io</a></li>
 
 <li><a href="https://einstein.ai/" target="_blank" alt="einstein.ai">einstein.ai</a></li>
-
-</ul>
-
-## Salesforce Blogs
-<ul>
-
-<li><a href="https://developer.salesforce.com/events/webinars/predictivevisionservice?d=7010M000001y9mg" target="_blank" alt="Salesforce Blog: Build Smarter Apps with New Predictive Vision Service">Salesforce Blog: Build Smarter Apps with New Predictive Vision Service</a></li>
-
-<li><a href="https://www.salesforce.com/video/3379030/" target="_blank" alt="Salesforce Einstein Keynote: Meet Your Smart CRM Assistant">Salesforce Einstein Keynote: Meet Your Smart CRM Assistant</a></li>
 
 </ul>
 
@@ -179,6 +169,13 @@ Machine Learning, Deep Learning, Natural Language Processing (NLP), Data Science
 <ul>
 
 <li><a href="https://releasenotes.docs.salesforce.com/en-us/spring19/release-notes/rn_service_einstein.htm" target="_blank" alt="Einstein features in Spring '19">Einstein features in Spring '19</a></li>
+
+</ul>
+
+## Salesforce Videos
+<ul>
+
+<li><a href="https://www.salesforce.com/video/3379030/" target="_blank" alt="Salesforce Einstein Keynote: Meet Your Smart CRM Assistant">Salesforce Einstein Keynote: Meet Your Smart CRM Assistant</a></li>
 
 </ul>
 
