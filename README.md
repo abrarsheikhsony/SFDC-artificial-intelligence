@@ -154,19 +154,19 @@ Machine Learning, Deep Learning, Natural Language Processing (NLP), Data Science
 
 <ul>
 
-<li><a href="TEST" target="_blank" alt="TEST">TEST</a></li>
+<li><a href="https://trailhead.salesforce.com/content/learn/trails/wave_analytics_enable_and_produce" target="_blank" alt="Build and Administer Analytics">Build and Administer Analytics</a></li>
 
-<li><a href="TEST" target="_blank" alt="TEST">TEST</a></li>
+<li><a href="https://trailhead.salesforce.com/content/learn/trails/wave_analytics_explorer" target="_blank" alt="Explore with Analytics">Explore with Analytics</a></li>
 
-<li><a href="TEST" target="_blank" alt="TEST">TEST</a></li>
+<li><a href="https://trailhead.salesforce.com/content/learn/trails/wave_analytics_apps" target="_blank" alt="Accelerate Analytics with Apps">Accelerate Analytics with Apps</a></li>
 
-<li><a href="TEST" target="_blank" alt="TEST">TEST</a></li>
+<li><a href="https://trailhead.salesforce.com/en/content/learn/superbadges/superbadge_analytics_integration_specialist" target="_blank" alt="Einstein Analytics Data Preparation Specialist">Einstein Analytics Data Preparation Specialist</a></li>
 
-<li><a href="TEST" target="_blank" alt="TEST">TEST</a></li>
+<li><a href="https://trailhead.salesforce.com/en/content/learn/superbadges/superbadge_analytics_insights_specialist" target="_blank" alt="Einstein Analytics and Discovery Insights Specialist">Einstein Analytics and Discovery Insights Specialist</a></li>
 
-<li><a href="TEST" target="_blank" alt="TEST">TEST</a></li>
+<li><a href="https://trailhead.salesforce.com/content/learn/modules/big-data-strategy" target="_blank" alt="Strategies for Big Data Architecture">Strategies for Big Data Architecture</a></li>
 
-<li><a href="TEST" target="_blank" alt="TEST">TEST</a></li>
+<li><a href="https://trailhead.salesforce.com/users/strailhead/trailmixes/architect-analytics-architecture" target="_blank" alt="Trailmix Architect Journey: Analytics Architecture">Trailmix Architect Journey: Analytics Architecture</a></li>
 
 </ul>
 
