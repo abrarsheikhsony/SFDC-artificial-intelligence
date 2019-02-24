@@ -135,13 +135,39 @@ Machine Learning, Deep Learning, Natural Language Processing (NLP), Data Science
 <li>Salesforce Einstein</li>
 
 <ul>
-<li><a href="TEST" target="_blank" alt="TEST">TEST</a></li>
+
+<li><a href="https://trailhead.salesforce.com/content/learn/trails/get_smart_einstein" target="_blank" alt="Get Smart with Salesforce Einstein">Get Smart with Salesforce Einstein</a></li>
+
+<li><a href="https://trailhead.salesforce.com/content/learn/modules/einstein-prediction-builder" target="_blank" alt="Einstein Prediction Builder">Einstein Prediction Builder</a></li>
+
+<li><a href="https://trailhead.salesforce.com/content/learn/projects/build-a-cat-rescue-app-that-recognizes-cat-breeds" target="_blank" alt="Build a Cat Rescue App That Recognizes Cat Breeds">Build a Cat Rescue App That Recognizes Cat Breeds</a></li>
+
+<li><a href="https://trailhead.salesforce.com/content/learn/trails/wave_analytics_einstein_discovery" target="_blank" alt="Gain Insight with Einstein Discovery">Gain Insight with Einstein Discovery</a></li>
+
+<li><a href="https://trailhead.salesforce.com/content/learn/trails/explore-deep-learning-for-nlp" target="_blank" alt="Explore Deep Learning for Natural Language Processing">Explore Deep Learning for Natural Language Processing</a></li>
+
+<li><a href="https://trailhead.salesforce.com/users/sparulekar/trailmixes/become-an-ai-trailblazer" target="_blank" alt="Trailmix: Become an AI Trailblazer">Trailmix: Become an AI Trailblazer</a></li>
+
 </ul>
 
 <li>Salesforce Einstein Analytics</li>
 
 <ul>
+
 <li><a href="TEST" target="_blank" alt="TEST">TEST</a></li>
+
+<li><a href="TEST" target="_blank" alt="TEST">TEST</a></li>
+
+<li><a href="TEST" target="_blank" alt="TEST">TEST</a></li>
+
+<li><a href="TEST" target="_blank" alt="TEST">TEST</a></li>
+
+<li><a href="TEST" target="_blank" alt="TEST">TEST</a></li>
+
+<li><a href="TEST" target="_blank" alt="TEST">TEST</a></li>
+
+<li><a href="TEST" target="_blank" alt="TEST">TEST</a></li>
+
 </ul>
 
 
