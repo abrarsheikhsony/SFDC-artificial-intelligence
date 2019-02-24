@@ -132,9 +132,19 @@ Machine Learning, Deep Learning, Natural Language Processing (NLP), Data Science
 ## Salesforce Trailhead
 <ul>
 
-<li><a href="https://trailhead.salesforce.com/content/learn/trails/get_smart_einstein" target="_blank" alt="Salesforce Trailhead: Get Smart with Salesforce Einstein">Salesforce Trailhead: Get Smart with Salesforce Einstein</a></li>
+<li><a href="https://trailhead.salesforce.com/content/learn/trails/get_smart_einstein" target="_blank" alt="Get Smart with Salesforce Einstein">Get Smart with Salesforce Einstein</a></li>
 
-<li><a href="https://trailhead.salesforce.com/content/learn/trails/explore-deep-learning-for-nlp" target="_blank" alt="Salesforce Trailhead: Explore Deep Learning for Natural Language Processing">Salesforce Trailhead: Explore Deep Learning for Natural Language Processing</a></li>
+<li><a href="https://trailhead.salesforce.com/content/learn/trails/explore-deep-learning-for-nlp" target="_blank" alt="Explore Deep Learning for Natural Language Processing">Explore Deep Learning for Natural Language Processing</a></li>
+
+<li><a href="https://trailhead.salesforce.com/en/content/learn/superbadges/superbadge_analytics_insights_specialist" target="_blank" alt="Einstein Analytics and Discovery Insights Specialist">Einstein Analytics and Discovery Insights Specialist</a></li>
+
+<li><a href="https://trailhead.salesforce.com/en/content/learn/superbadges/superbadge_analytics_integration_specialist" target="_blank" alt="Einstein Analytics Data Preparation Specialist">Einstein Analytics Data Preparation Specialist</a></li>
+
+<li><a href="TEST" target="_blank" alt="TEST">TEST</a></li>
+
+<li><a href="TEST" target="_blank" alt="TEST">TEST</a></li>
+
+<li><a href="TEST" target="_blank" alt="TEST">TEST</a></li>
 
 </ul>
 
