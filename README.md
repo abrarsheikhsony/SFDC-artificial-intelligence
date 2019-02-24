@@ -140,6 +140,8 @@ Machine Learning, Deep Learning, Natural Language Processing (NLP), Data Science
 
 <li><a href="https://trailhead.salesforce.com/content/learn/modules/einstein-prediction-builder" target="_blank" alt="Einstein Prediction Builder">Einstein Prediction Builder</a></li>
 
+<li><a href="https://developer.salesforce.com/events/webinars/predictivevisionservice?d=7010M000001y9mg" target="_blank" alt="Build Smarter Apps with New Predictive Vision Service">Build Smarter Apps with New Predictive Vision Service</a></li>
+
 <li><a href="https://trailhead.salesforce.com/content/learn/projects/build-a-cat-rescue-app-that-recognizes-cat-breeds" target="_blank" alt="Build a Cat Rescue App That Recognizes Cat Breeds">Build a Cat Rescue App That Recognizes Cat Breeds</a></li>
 
 <li><a href="https://trailhead.salesforce.com/content/learn/trails/wave_analytics_einstein_discovery" target="_blank" alt="Gain Insight with Einstein Discovery">Gain Insight with Einstein Discovery</a></li>
