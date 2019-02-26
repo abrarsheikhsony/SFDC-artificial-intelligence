@@ -240,9 +240,13 @@ Machine Learning, Deep Learning, Natural Language Processing (NLP), Data Science
 ## Other Blogs
 <ul>
 
-<li><a href="https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471" target="_blank" alt="Blog: Machine Learning is Fun!">Blog: Machine Learning is Fun!</a></li>
+<li><a href="https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471" target="_blank" alt="Machine Learning is Fun!">Machine Learning is Fun!</a></li>
 
-<li><a href="https://www.nngroup.com/articles/intelligent-assistant-usability/" target="_blank" alt="Blog: Intelligent Assistants Have Poor Usability: A User Study of Alexa, Google Assistant, and Siri">Blog: Intelligent Assistants Have Poor Usability: A User Study of Alexa, Google Assistant, and Siri</a></li>
+<li><a href="https://www.nngroup.com/articles/intelligent-assistant-usability/" target="_blank" alt="Intelligent Assistants Have Poor Usability: A User Study of Alexa, Google Assistant, and Siri">Intelligent Assistants Have Poor Usability: A User Study of Alexa, Google Assistant, and Siri</a></li>
+
+<li><a href="https://contentmarketinginstitute.com/2018/03/chatbots-ai-context/" target="_blank" alt="Top Takeaways From Intelligent Content Conference">Top Takeaways From Intelligent Content Conference</a></li>
+
+<li><a href="https://www.inc.com/rebecca-hinds/by-2020-youre-more-likely-to-have-a-conversation-with-this-than-with-your-spouse.html" target="_blank" alt="By 2020, You're More Likely to Have a Conversation With This Than With Your Spouse">By 2020, You're More Likely to Have a Conversation With This Than With Your Spouse</a></li>
 
 <li><a href="https://www.pwc.com/us/en/services/consulting/library/consumer-intelligence-series/voice-assistants.html" target="_blank" alt="PwC: Prepare for the voice revolution">PwC: Prepare for the voice revolution</a></li>
 
