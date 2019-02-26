@@ -242,6 +242,8 @@ Machine Learning, Deep Learning, Natural Language Processing (NLP), Data Science
 
 <li><a href="https://www.nngroup.com/articles/intelligent-assistant-usability/" target="_blank" alt="Blog: Intelligent Assistants Have Poor Usability: A User Study of Alexa, Google Assistant, and Siri">Blog: Intelligent Assistants Have Poor Usability: A User Study of Alexa, Google Assistant, and Siri</a></li>
 
+<li><a href="https://www.pwc.com/us/en/services/consulting/library/consumer-intelligence-series/voice-assistants.html" target="_blank" alt="PwC: Prepare for the voice revolution">PwC: Prepare for the voice revolution</a></li>
+
 </ul>
 
 <ol type="1">
