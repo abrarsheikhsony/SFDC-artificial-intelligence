@@ -150,6 +150,8 @@ Machine Learning, Deep Learning, Natural Language Processing (NLP), Data Science
 
 <li><a href="https://trailhead.salesforce.com/users/sparulekar/trailmixes/become-an-ai-trailblazer" target="_blank" alt="Trailmix: Become an AI Trailblazer">Trailmix: Become an AI Trailblazer</a></li>
 
+<li><a href="https://trailhead.salesforce.com/en/content/learn/trails/innovate-with-alexa-and-amazon-web-services" target="_blank" alt="Innovate with Alexa and Amazon Web Services">Innovate with Alexa and Amazon Web Services</a></li>
+
 </ul>
 
 <li>Salesforce Einstein Analytics</li>
