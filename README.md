@@ -251,11 +251,3 @@ Machine Learning, Deep Learning, Natural Language Processing (NLP), Data Science
 <li><a href="https://www.pwc.com/us/en/services/consulting/library/consumer-intelligence-series/voice-assistants.html" target="_blank" alt="PwC: Prepare for the voice revolution">PwC: Prepare for the voice revolution</a></li>
 
 </ul>
-
-<ol type="1">
-<li></li>
-</ol>
-
-<a href="" target="_blank" alt="TEST">TEST</a>
-
-<img src="supportedimages/SubscriptionChannels.png"/>
