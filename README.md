@@ -180,6 +180,10 @@ Machine Learning, Deep Learning, Natural Language Processing (NLP), Data Science
 
 <li><a href="https://metamind.readme.io/" target="_blank" alt="metamind.readme.io">metamind.readme.io</a></li>
 
+<li><a href="https://metamind.readme.io/v2/docs" target="_blank" alt="Introduction to Salesforce Einstein Vision">Introduction to Salesforce Einstein Vision</a></li>
+
+<li><a href="https://api.metamind.io/signup" target="_blank" alt="Einstein Platform Services">Einstein Platform Services</a></li>
+
 <li><a href="https://einstein.ai/" target="_blank" alt="einstein.ai">einstein.ai</a></li>
 
 </ul>
