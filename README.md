@@ -121,6 +121,8 @@ Machine Learning, Deep Learning, Natural Language Processing (NLP), Data Science
 ## Artificial Intelligence in Salesforce
 <ul>
 
+<li><a href="https://trailhead.salesforce.com/content/learn/modules/impacts-of-the-fourth-industrial-revolution" target="_blank" alt="Impacts of the Fourth Industrial Revolution">Impacts of the Fourth Industrial Revolution</a></li>
+
 <li><a href="https://www.salesforce.com/products/einstein/ai-deep-dive/" target="_blank" alt="Salesforce: Take a deep dive into artificial intelligence">Salesforce Blog: Take a deep dive into artificial intelligence</a></li>
 
 <li><a href="https://venturebeat.com/2016/04/04/salesforce-buys-hot-deep-learning-startup-metamind-services-shutting-down-may-4/" target="_blank" alt="Salesforce buys hot deep learning startup MetaMind, services shutting down May 4">Salesforce buys hot deep learning startup MetaMind, services shutting down May 4</a></li>
