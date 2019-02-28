@@ -121,6 +121,8 @@ Machine Learning, Deep Learning, Natural Language Processing (NLP), Data Science
 ## Artificial Intelligence in Salesforce
 <ul>
 
+<li><a href="https://trailhead.salesforce.com/content/learn/modules/technologies-and-trends-of-the-fourth-industrial-revolution" target="_blank" alt="Technologies and Trends of the Fourth Industrial Revolution">Technologies and Trends of the Fourth Industrial Revolution</a></li>
+
 <li><a href="https://trailhead.salesforce.com/content/learn/modules/impacts-of-the-fourth-industrial-revolution" target="_blank" alt="Impacts of the Fourth Industrial Revolution">Impacts of the Fourth Industrial Revolution</a></li>
 
 <li><a href="https://www.salesforce.com/products/einstein/ai-deep-dive/" target="_blank" alt="Salesforce: Take a deep dive into artificial intelligence">Salesforce Blog: Take a deep dive into artificial intelligence</a></li>
