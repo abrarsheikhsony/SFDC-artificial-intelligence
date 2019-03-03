@@ -210,20 +210,14 @@ Einstein can be viewed as two categories:
 <ul>
 <li>Using Einstein Intent to categorize different text, your marketers can categorize what customers are saying about the product, whether they’re talking about the color, texture, durability, and more.</li>
 </ul>
-<li>Together, these APIs harness and make sense out of unstructured data from text to help better understand your customers</li>
+<li>Note: Together, these APIs harness and make sense out of unstructured data from text to help better understand your customers</li>
 </ul>
 
 </ul>
-
-
 
 </ul>
 
 </ol>
-
-
-
-
 
 ## Artificial Intelligence in Salesforce
 <ul>
