@@ -126,12 +126,46 @@ Einstein can be viewed as two categories:
 <li>Einstein Out-of-the-Box Applications</li>
 
 <ul>
-<li></li>
+
+<li>Sales Cloud</li>
+
+<ul>
+<li>Lead Score</li>
+<li>Opportunity Score</li>
+</ul>
+
+<li>Service Cloud</li>
+
+<ul>
+<li>Einstein Next Best Action</li>
+<li>Einstein Predictions / Suggestions / Recommendations</li>
+</ul>
+
+<li>Marketing Cloud</li>
+
+<ul>
+<li>Einstein Predictions / Suggestions / Recommendations</li>
+</ul>
+
+<li>Commerce Cloud</li>
+
 </ul>
 
 <li>Einstein Platform</li>
 
 <ul>
+<li>Einstein Bots</li>
+<li>Einstein Voice (Pilot feature)</li>
+
+<ul>
+<li>Einstein Voice Assistant = enabling your organization</li>
+<li>Einstein Voice Bots = enabling your customers</li>
+</ul>
+
+<li>Einstein Prediction Builder</li>
+<li>Einstein Next Best Action (NBA) / Einstein Recommendations</li>
+<li>Einstein Discovery</li>
+<li></li>
 <li></li>
 </ul>
 
