@@ -118,6 +118,32 @@ Machine Learning, Deep Learning, Natural Language Processing (NLP), Data Science
 
 </ol>
 
+## Salesforce Einstein
+Einstein can be viewed as two categories:
+
+<ol type="1">
+
+<li>Einstein Out-of-the-Box Applications</li>
+
+<ul>
+<li></li>
+</ul>
+
+<li>Einstein Platform</li>
+
+<ul>
+<li></li>
+</ul>
+
+</ol>
+
+
+
+
+<ul>
+<li></li>
+</ul>
+
 ## Artificial Intelligence in Salesforce
 <ul>
 
