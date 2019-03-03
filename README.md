@@ -184,12 +184,46 @@ Einstein can be viewed as two categories:
 
 <li>Einstein Vision and Language</li>
 <ul>
-<li></li>
+<li>With AI enabled applications, you need to make sense out of unstructured data (e.g. images, text, videos, word documents, and audio files etc.)</li>
+<li>Einstein Vision and Language are a set of APIs and services for Salesforce developers to use to add deep-learning capabilities to any application, ultimately allowing end users to classify images and extract meaning from text.</li>
+
+<li>Einstein Vision consists of:</li>
+<ul>
+<li>Einstein Image Classification</li>
+<ul>
+<li>Using the image, tt can detect whether the piece of equipment is damaged, where the damages are, and be given an estimate on how much it will cost to repair.</li>
 </ul>
+<li>Einstein Object Detection</li>
+<ul>
+<li>It extracts and contextualizes objects in images.</li>
+<li>It can identify how many of certain images/items there are.</li>
+</ul>
+<li>Note: Together, these APIs harness and make sense out of unstructured data from images to help employees classify them at scale</li>
+</ul>  
+<li>Einstein Language consists of:</li>
+<ul>
+<li>Einstein Sentiment</li>
+<ul>
+<li>People post about the product and what is said about the product</li>
+</ul>
+<li>Einstein Intent</li>
+<ul>
+<li>Using Einstein Intent to categorize different text, your marketers can categorize what customers are saying about the product, whether they’re talking about the color, texture, durability, and more.</li>
+</ul>
+<li>Together, these APIs harness and make sense out of unstructured data from text to help better understand your customers</li>
+</ul>
+
+</ul>
+
+
 
 </ul>
 
 </ol>
+
+
+
+
 
 ## Artificial Intelligence in Salesforce
 <ul>
