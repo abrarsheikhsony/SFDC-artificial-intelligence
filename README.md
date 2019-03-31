@@ -293,6 +293,8 @@ Einstein can be viewed as two categories:
 
 <li><a href="https://einstein.ai/" target="_blank" alt="einstein.ai">einstein.ai</a></li>
 
+<li><a href="https://developer.salesforce.com/developer-centers/ein-platform/" target="_blank" alt="Einstein Platform">Einstein Platform</a></li>
+
 </ul>
 
 ## Salesforce Winter '19 Release
