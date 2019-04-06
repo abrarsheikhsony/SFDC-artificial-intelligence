@@ -309,13 +309,13 @@ Einstein can be viewed as two categories:
 
 <ul>
 
-<li><a href="https://metamind.readme.io/" target="_blank" alt="Einstein Vision & Einstein Language APIs">Einstein Vision & Einstein Language APIs</a></li>
-
-<li><a href="https://api.metamind.io/signup" target="_blank" alt="Einstein Platform Services Signup">Einstein Platform Services Signup</a></li>
-
 <li><a href="https://einstein.ai/" target="_blank" alt="Salesforce Einstein Research">Salesforce Einstein Research</a></li>
 
+<li><a href="https://metamind.readme.io/" target="_blank" alt="Einstein Vision & Einstein Language APIs">Einstein Vision & Einstein Language APIs</a></li>
+
 <li><a href="https://developer.salesforce.com/developer-centers/ein-platform/" target="_blank" alt="Einstein Platform: Developer Center">Einstein Platform: Developer Center</a></li>
+
+<li><a href="https://api.metamind.io/signup" target="_blank" alt="Einstein Platform Services Signup">Einstein Platform Services Signup</a></li>
 
 </ul>
 
