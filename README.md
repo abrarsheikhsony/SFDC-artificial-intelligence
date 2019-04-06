@@ -224,7 +224,7 @@ Einstein can be viewed as two categories:
 ## Artificial Intelligence in Salesforce
 <ul>
 
-<li><a href="https://trailhead.salesforce.com/content/learn/modules/technologies-and-trends-of-the-fourth-industrial-revolution" target="_blank" alt="Technologies and Trends of the Fourth Industrial Revolution">Technologies and Trends of the Fourth Industrial Revolution</a></li>
+<li><a href="https://trailhead.salesforce.com/content/learn/trails/learn-about-the-fourth-industrial-revolution" target="_blank" alt="Learn About the Fourth Industrial Revolution">Learn About the Fourth Industrial Revolution</a></li>
 
 <li><a href="https://trailhead.salesforce.com/content/learn/modules/impacts-of-the-fourth-industrial-revolution" target="_blank" alt="Impacts of the Fourth Industrial Revolution">Impacts of the Fourth Industrial Revolution</a></li>
 
@@ -267,11 +267,11 @@ Einstein can be viewed as two categories:
 
 <li><a href="https://trailhead.salesforce.com/content/learn/projects/build-an-einstein-bot" target="_blank" alt="Trailhead Project: Build an Einstein Bot">Trailhead Project: Build an Einstein Bot</a></li>
 
-<li><a href="TEST" target="_blank" alt="TEST">TEST</a></li>
+<li><a href="https://releasenotes.docs.salesforce.com/en-us/spring19/release-notes/rn_service_case_classification.htm" target="_blank" alt="Einstein Case Classification">Einstein Case Classification</a></li>
 
-<li><a href="TEST" target="_blank" alt="TEST">TEST</a></li>
+<li><a href="https://releasenotes.docs.salesforce.com/en-us/spring19/release-notes/rn_service_case_einstein_nba.htm" target="_blank" alt="Einstein Next Best Action">Einstein Next Best Action</a></li>
 
-<li><a href="TEST" target="_blank" alt="TEST">TEST</a></li>
+<li><a href="https://releasenotes.docs.salesforce.com/en-us/spring19/release-notes/rn_forcecom_einstein.htm" target="_blank" alt="Einstein: Next Best Action and Prediction Builder">Einstein: Next Best Action and Prediction Builder</a></li>
 
 </ul>
 
