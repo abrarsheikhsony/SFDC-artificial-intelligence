@@ -358,20 +358,20 @@ Einstein can be viewed as two categories:
 
 </ul>
 
-## IBM Watson & Salesforce
+## Salesforce and IBM Watson
 <ul>
 
-<li><a href="https://www.ibm.com/watson/ibm-salesforce/" target="_blank" alt="Watson Solutions for Salesforce">Watson Solutions for Salesforce</a></li>
+<li><a href="https://trailhead.salesforce.com/content/learn/projects/incorporate-ibm-weather-company-data" target="_blank" alt="Trailhead Project: Incorporate Data from The Weather Company in Salesforce">Trailhead Project: Incorporate Data from The Weather Company in Salesforce</a></li>
+
+<li><a href="https://trailhead.salesforce.com/content/learn/projects/surface-data-from-ibm-watson-discovery-in-salesforce" target="_blank" alt="Trailhead Project: Surface Data from IBM Watson Discovery in Salesforce">Trailhead Project: Surface Data from IBM Watson Discovery in Salesforce</a></li>
+
+<li><a href="https://www.salesforce.com/video/195071/" target="_blank" alt="Salesforce + IBM + Watson: The Cognitive Customer-Activated Enterprise">Salesforce + IBM + Watson: The Cognitive Customer-Activated Enterprise</a></li>
 
 <li><a href="https://www.salesforce.com/campaign/ibm/" target="_blank" alt="IBM and Salesforce Strengthen Strategic Partnership">IBM and Salesforce Strengthen Strategic Partnership</a></li>
 
 <li><a href="https://www.salesforce.com/blog/2017/03/ibm-salesforce-strategic-partnership" target="_blank" alt="IBM and Salesforce Announce Landmark Global Strategic Partnership">IBM and Salesforce Announce Landmark Global Strategic Partnership</a></li>
 
-<li><a href="https://www.salesforce.com/video/195071/" target="_blank" alt="Salesforce + IBM + Watson: The Cognitive Customer-Activated Enterprise">Salesforce + IBM + Watson: The Cognitive Customer-Activated Enterprise</a></li>
-
-<li><a href="https://trailhead.salesforce.com/content/learn/projects/surface-data-from-ibm-watson-discovery-in-salesforce" target="_blank" alt="Trailhead Project: Surface Data from IBM Watson Discovery in Salesforce">Trailhead Project: Surface Data from IBM Watson Discovery in Salesforce</a></li>
-
-<li><a href="https://trailhead.salesforce.com/content/learn/projects/incorporate-ibm-weather-company-data" target="_blank" alt="Trailhead Project: Incorporate Data from The Weather Company in Salesforce">Trailhead Project: Incorporate Data from The Weather Company in Salesforce</a></li>
+<li><a href="https://www.ibm.com/watson/ibm-salesforce/" target="_blank" alt="Watson Solutions for Salesforce">Watson Solutions for Salesforce</a></li>
 
 </ul>
 
