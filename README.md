@@ -344,8 +344,12 @@ Einstein can be viewed as two categories:
 
 <li><a href="TEST" target="_blank" alt="TEST">TEST</a></li>
 
+</ul>
 
+## Salesforce and Google
+<ul>
 
+<li><a href="https://trailhead.salesforce.com/content/learn/projects/query-github-data-using-bigquery" target="_blank" alt="Trailhead Project: Query GitHub Data Using BigQuery">Trailhead Project: Query GitHub Data Using BigQuery</a></li>
 
 </ul>
 
