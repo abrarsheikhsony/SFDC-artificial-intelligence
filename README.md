@@ -253,6 +253,30 @@ Einstein can be viewed as two categories:
 </ul>
 
 
+<li>Einstein Platform Services</li>
+
+<ul>
+
+<li><a href="https://einstein.ai/" target="_blank" alt="Salesforce Einstein Research">Salesforce Einstein Research</a></li>
+
+<li><a href="https://metamind.readme.io/" target="_blank" alt="Einstein Vision & Einstein Language APIs">Einstein Vision & Einstein Language APIs</a></li>
+
+<li><a href="https://developer.salesforce.com/developer-centers/ein-platform/" target="_blank" alt="Einstein Platform: Developer Center">Einstein Platform: Developer Center</a></li>
+
+<li><a href="https://api.metamind.io/signup" target="_blank" alt="Einstein Platform Services Signup">Einstein Platform Services Signup</a></li>
+
+</ul>
+
+
+<li>Deep Learning & Natural Language Processing (NLP)</li>
+
+<ul>
+
+<li><a href="https://trailhead.salesforce.com/content/learn/trails/explore-deep-learning-for-nlp" target="_blank" alt="Explore Deep Learning for Natural Language Processing">Explore Deep Learning for Natural Language Processing</a></li>
+
+</ul>
+
+
 <li>Einstein Analytics</li>
 
 <ul>
@@ -270,30 +294,6 @@ Einstein can be viewed as two categories:
 <li><a href="https://trailhead.salesforce.com/en/content/learn/superbadges/superbadge_analytics_integration_specialist" target="_blank" alt="Superbadge: Einstein Analytics Data Preparation Specialist">Superbadge: Einstein Analytics Data Preparation Specialist</a></li>
 
 <li><a href="https://trailhead.salesforce.com/en/content/learn/superbadges/superbadge_analytics_insights_specialist" target="_blank" alt="Superbadge: Einstein Analytics and Discovery Insights Specialist">Superbadge: Einstein Analytics and Discovery Insights Specialist</a></li>
-
-</ul>
-
-
-<li>Deep Learning & Natural Language Processing (NLP)</li>
-
-<ul>
-
-<li><a href="https://trailhead.salesforce.com/content/learn/trails/explore-deep-learning-for-nlp" target="_blank" alt="Explore Deep Learning for Natural Language Processing">Explore Deep Learning for Natural Language Processing</a></li>
-
-</ul>
-
-
-<li>Einstein Platform Services</li>
-
-<ul>
-
-<li><a href="https://einstein.ai/" target="_blank" alt="Salesforce Einstein Research">Salesforce Einstein Research</a></li>
-
-<li><a href="https://metamind.readme.io/" target="_blank" alt="Einstein Vision & Einstein Language APIs">Einstein Vision & Einstein Language APIs</a></li>
-
-<li><a href="https://developer.salesforce.com/developer-centers/ein-platform/" target="_blank" alt="Einstein Platform: Developer Center">Einstein Platform: Developer Center</a></li>
-
-<li><a href="https://api.metamind.io/signup" target="_blank" alt="Einstein Platform Services Signup">Einstein Platform Services Signup</a></li>
 
 </ul>
 
