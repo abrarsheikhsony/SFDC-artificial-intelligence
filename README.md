@@ -329,10 +329,23 @@ Einstein can be viewed as two categories:
 
 </ul>
 
-## Salesforce Violet (Voice Skills)
+## Salesforce with Amazon, Alexa, Slack, Violet (Voice Skills)
 <ul>
 
 <li><a href="https://trailhead.salesforce.com/content/learn/projects/quickstart-violet" target="_blank" alt="Trailhead Project: Violet">Trailhead Project: Violet</a></li>
+
+<li><a href="https://trailhead.salesforce.com/content/learn/projects/build-an-alexa-skill" target="_blank" alt="Trailhead Project: Build an Alexa Skill">Trailhead Project: Build an Alexa Skill</a></li>
+
+<li><a href="https://trailhead.salesforce.com/content/learn/projects/build-an-amazon-connect-integration" target="_blank" alt="Trailhead Project: Build an Amazon Connect Integration">Trailhead Project: Build an Amazon Connect Integration</a></li>
+
+<li><a href="https://trailhead.salesforce.com/content/learn/projects/build-a-private-alexa-for-business-skill-for-salesforce" target="_blank" alt="Trailhead Project: Build a Private Alexa for Business Skill for Salesforce">Trailhead Project: Build a Private Alexa for Business Skill for Salesforce</a></li>
+
+<li><a href="https://trailhead.salesforce.com/content/learn/projects/build-slack-bot" target="_blank" alt="Trailhead Project: Build a Welcome Bot for Slack">Trailhead Project: Build a Welcome Bot for Slack</a></li>
+
+<li><a href="TEST" target="_blank" alt="TEST">TEST</a></li>
+
+
+
 
 </ul>
 
