@@ -332,8 +332,22 @@ Einstein can be viewed as two categories:
 
 
 
+## Salesforce and IBM Watson
+<ul>
 
+<li><a href="https://trailhead.salesforce.com/content/learn/projects/incorporate-ibm-weather-company-data" target="_blank" alt="Trailhead Project: Incorporate Data from The Weather Company in Salesforce">Trailhead Project: Incorporate Data from The Weather Company in Salesforce</a></li>
 
+<li><a href="https://trailhead.salesforce.com/content/learn/projects/surface-data-from-ibm-watson-discovery-in-salesforce" target="_blank" alt="Trailhead Project: Surface Data from IBM Watson Discovery in Salesforce">Trailhead Project: Surface Data from IBM Watson Discovery in Salesforce</a></li>
+
+<li><a href="https://www.salesforce.com/video/195071/" target="_blank" alt="Salesforce + IBM + Watson: The Cognitive Customer-Activated Enterprise">Salesforce + IBM + Watson: The Cognitive Customer-Activated Enterprise</a></li>
+
+<li><a href="https://www.salesforce.com/campaign/ibm/" target="_blank" alt="IBM and Salesforce Strengthen Strategic Partnership">IBM and Salesforce Strengthen Strategic Partnership</a></li>
+
+<li><a href="https://www.salesforce.com/blog/2017/03/ibm-salesforce-strategic-partnership" target="_blank" alt="IBM and Salesforce Announce Landmark Global Strategic Partnership">IBM and Salesforce Announce Landmark Global Strategic Partnership</a></li>
+
+<li><a href="https://www.ibm.com/watson/ibm-salesforce/" target="_blank" alt="Watson Solutions for Salesforce">Watson Solutions for Salesforce</a></li>
+
+</ul>
 
 ## Salesforce and Google
 <ul>
@@ -358,39 +372,58 @@ Einstein can be viewed as two categories:
 
 </ul>
 
-## Salesforce and IBM Watson
+
+
+
+
+
+
+
+
+
+## Salesforce Acquisitions
 <ul>
+  
+<li><a href="https://venturebeat.com/2016/04/04/salesforce-buys-hot-deep-learning-startup-metamind-services-shutting-down-may-4/" target="_blank" alt="Salesforce buys hot deep learning startup MetaMind, services shutting down May 4">Salesforce buys hot deep learning startup MetaMind, services shutting down May 4</a></li>
 
-<li><a href="https://trailhead.salesforce.com/content/learn/projects/incorporate-ibm-weather-company-data" target="_blank" alt="Trailhead Project: Incorporate Data from The Weather Company in Salesforce">Trailhead Project: Incorporate Data from The Weather Company in Salesforce</a></li>
-
-<li><a href="https://trailhead.salesforce.com/content/learn/projects/surface-data-from-ibm-watson-discovery-in-salesforce" target="_blank" alt="Trailhead Project: Surface Data from IBM Watson Discovery in Salesforce">Trailhead Project: Surface Data from IBM Watson Discovery in Salesforce</a></li>
-
-<li><a href="https://www.salesforce.com/video/195071/" target="_blank" alt="Salesforce + IBM + Watson: The Cognitive Customer-Activated Enterprise">Salesforce + IBM + Watson: The Cognitive Customer-Activated Enterprise</a></li>
-
-<li><a href="https://www.salesforce.com/campaign/ibm/" target="_blank" alt="IBM and Salesforce Strengthen Strategic Partnership">IBM and Salesforce Strengthen Strategic Partnership</a></li>
-
-<li><a href="https://www.salesforce.com/blog/2017/03/ibm-salesforce-strategic-partnership" target="_blank" alt="IBM and Salesforce Announce Landmark Global Strategic Partnership">IBM and Salesforce Announce Landmark Global Strategic Partnership</a></li>
-
-<li><a href="https://www.ibm.com/watson/ibm-salesforce/" target="_blank" alt="Watson Solutions for Salesforce">Watson Solutions for Salesforce</a></li>
+<li><a href="https://www.businessinsider.com/salesforce-spent-75-million-on-acquisitions-in-q2-2016-5?r=US&IR=T" target="_blank" alt="Salesforce reveals it spent $75 million on the three startups it bought last quarter">Salesforce reveals it spent $75 million on the three startups it bought last quarter</a></li>
 
 </ul>
 
-
-
-## Other Blogs
+## Fourth (4th) Industrial Revolution
 <ul>
 
-<li><a href="https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471" target="_blank" alt="Machine Learning is Fun!">Machine Learning is Fun!</a></li>
-
-<li><a href="https://www.nngroup.com/articles/intelligent-assistant-usability/" target="_blank" alt="Intelligent Assistants Have Poor Usability: A User Study of Alexa, Google Assistant, and Siri">Intelligent Assistants Have Poor Usability: A User Study of Alexa, Google Assistant, and Siri</a></li>
-
-<li><a href="https://contentmarketinginstitute.com/2018/03/chatbots-ai-context/" target="_blank" alt="Top Takeaways From Intelligent Content Conference">Top Takeaways From Intelligent Content Conference</a></li>
+<li><a href="https://trailhead.salesforce.com/content/learn/trails/learn-about-the-fourth-industrial-revolution" target="_blank" alt="Learn About the Fourth Industrial Revolution">Learn About the Fourth Industrial Revolution</a></li>
 
 <li><a href="https://www.inc.com/rebecca-hinds/by-2020-youre-more-likely-to-have-a-conversation-with-this-than-with-your-spouse.html" target="_blank" alt="By 2020, You're More Likely to Have a Conversation With This Than With Your Spouse">By 2020, You're More Likely to Have a Conversation With This Than With Your Spouse</a></li>
 
 <li><a href="https://www.pwc.com/us/en/services/consulting/library/consumer-intelligence-series/voice-assistants.html" target="_blank" alt="PwC: Prepare for the voice revolution">PwC: Prepare for the voice revolution</a></li>
 
+<li><a href="https://contentmarketinginstitute.com/2018/03/chatbots-ai-context/" target="_blank" alt="Top Takeaways From Intelligent Content Conference">Top Takeaways From Intelligent Content Conference</a></li>
+
+<li><a href="https://www.nngroup.com/articles/intelligent-assistant-usability/" target="_blank" alt="Intelligent Assistants Have Poor Usability: A User Study of Alexa, Google Assistant, and Siri">Intelligent Assistants Have Poor Usability: A User Study of Alexa, Google Assistant, and Siri</a></li>
+
+<li><a href="https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471" target="_blank" alt="Machine Learning is Fun!">Machine Learning is Fun!</a></li>
+
 </ul>
+
+## TactAI
+<ul>
+
+<li><a href="https://tact.ai/" target="_blank" alt="TactAI: Amazon, Microsoft, Salesforce">TactAI: Amazon, Microsoft, Salesforce</a></li>
+
+<li><a href="https://www.youtube.com/watch?v=mbXGPJMFNAE" target="_blank" alt="YouTube: Founder & CEO of TactAI speaking on Bloomberg Businessweek">YouTube: Founder & CEO of TactAI speaking on Bloomberg Businessweek</a></li>
+
+<li><a href="https://www.youtube.com/channel/UCbyiIf8hImU-I7zWl-i7OGw" target="_blank" alt="YouTube: TactAI">YouTube: TactAI</a></li>
+
+</ul>
+
+
+
+
+
+
+
 
 ## Other Trailheads
 <ul>
@@ -420,38 +453,5 @@ Einstein can be viewed as two categories:
 <li><a href="https://trailhead.salesforce.com/content/learn/trails/drucker_school" target="_blank" alt="Learn Drucker School MBA Essentials">Learn Drucker School MBA Essentials</a></li>
 
 <li><a href="https://trailhead.salesforce.com/content/learn/trails/highered_heda" target="_blank" alt="Manage Your Higher Ed Data with HEDA">Manage Your Higher Ed Data with HEDA</a></li>
-
-</ul>
-
-
-
-
-
-
-
-## Salesforce Acquisitions
-<ul>
-  
-<li><a href="https://venturebeat.com/2016/04/04/salesforce-buys-hot-deep-learning-startup-metamind-services-shutting-down-may-4/" target="_blank" alt="Salesforce buys hot deep learning startup MetaMind, services shutting down May 4">Salesforce buys hot deep learning startup MetaMind, services shutting down May 4</a></li>
-
-<li><a href="https://www.businessinsider.com/salesforce-spent-75-million-on-acquisitions-in-q2-2016-5?r=US&IR=T" target="_blank" alt="Salesforce reveals it spent $75 million on the three startups it bought last quarter">Salesforce reveals it spent $75 million on the three startups it bought last quarter</a></li>
-
-</ul>
-
-## Fourth (4th) Industrial Revolution
-<ul>
-
-<li><a href="https://trailhead.salesforce.com/content/learn/trails/learn-about-the-fourth-industrial-revolution" target="_blank" alt="Learn About the Fourth Industrial Revolution">Learn About the Fourth Industrial Revolution</a></li>
-
-</ul>
-
-## TactAI
-<ul>
-
-<li><a href="https://tact.ai/" target="_blank" alt="TactAI: Amazon, Microsoft, Salesforce">TactAI: Amazon, Microsoft, Salesforce</a></li>
-
-<li><a href="https://www.youtube.com/watch?v=mbXGPJMFNAE" target="_blank" alt="YouTube: Founder & CEO of TactAI speaking on Bloomberg Businessweek">YouTube: Founder & CEO of TactAI speaking on Bloomberg Businessweek</a></li>
-
-<li><a href="https://www.youtube.com/channel/UCbyiIf8hImU-I7zWl-i7OGw" target="_blank" alt="YouTube: TactAI">YouTube: TactAI</a></li>
 
 </ul>
