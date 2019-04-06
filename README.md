@@ -253,15 +253,6 @@ Einstein can be viewed as two categories:
 </ul>
 
 
-<li>Deep Learning & Natural Language Processing (NLP)</li>
-
-<ul>
-
-<li><a href="https://trailhead.salesforce.com/content/learn/trails/explore-deep-learning-for-nlp" target="_blank" alt="Explore Deep Learning for Natural Language Processing">Explore Deep Learning for Natural Language Processing</a></li>
-
-</ul>
-
-
 <li>Einstein Analytics</li>
 
 <ul>
@@ -279,6 +270,15 @@ Einstein can be viewed as two categories:
 <li><a href="https://trailhead.salesforce.com/en/content/learn/superbadges/superbadge_analytics_integration_specialist" target="_blank" alt="Superbadge: Einstein Analytics Data Preparation Specialist">Superbadge: Einstein Analytics Data Preparation Specialist</a></li>
 
 <li><a href="https://trailhead.salesforce.com/en/content/learn/superbadges/superbadge_analytics_insights_specialist" target="_blank" alt="Superbadge: Einstein Analytics and Discovery Insights Specialist">Superbadge: Einstein Analytics and Discovery Insights Specialist</a></li>
+
+</ul>
+
+
+<li>Deep Learning & Natural Language Processing (NLP)</li>
+
+<ul>
+
+<li><a href="https://trailhead.salesforce.com/content/learn/trails/explore-deep-learning-for-nlp" target="_blank" alt="Explore Deep Learning for Natural Language Processing">Explore Deep Learning for Natural Language Processing</a></li>
 
 </ul>
 
