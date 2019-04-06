@@ -363,6 +363,8 @@ Einstein can be viewed as two categories:
 
 <li><a href="https://trailhead.salesforce.com/content/learn/projects/query-github-data-using-bigquery" target="_blank" alt="Trailhead Project: Query GitHub Data Using BigQuery">Trailhead Project: Query GitHub Data Using BigQuery</a></li>
 
+<li><a href="https://trailhead.salesforce.com/content/learn/trails/understand-your-web-users-with-google-analytics" target="_blank" alt="Trailhead: Understand Your Web Users with Google Analytics">Trailhead: Understand Your Web Users with Google Analytics</a></li>
+
 </ul>
 
 ## Salesforce Winter '19 Release
@@ -434,6 +436,8 @@ Einstein can be viewed as two categories:
 ## Other Trailheads
 <ul>
 
+<li><a href="https://trailhead.salesforce.com/content/learn/trails/learn-about-the-fourth-industrial-revolution" target="_blank" alt="Learn About the Fourth Industrial Revolution">Learn About the Fourth Industrial Revolution</a></li>
+
 <li><a href="https://trailhead.salesforce.com/content/learn/trails/build-your-customer-service-management-toolkit" target="_blank" alt="Build Your Customer Service Management Toolkit">Build Your Customer Service Management Toolkit</a></li>
 
 <li><a href="https://trailhead.salesforce.com/content/learn/trails/be-the-bank-your-customers-love" target="_blank" alt="Be the Bank Your Customers Love">Be the Bank Your Customers Love</a></li>
@@ -442,5 +446,12 @@ Einstein can be viewed as two categories:
 
 <li><a href="https://trailhead.salesforce.com/content/learn/trails/innovation_salesforce_way" target="_blank" alt="Innovate the Salesforce Way">Innovate the Salesforce Way</a></li>
 
+<li><a href="https://trailhead.salesforce.com/content/learn/trails/learn-about-the-uns-global-goals" target="_blank" alt="Learn About the UN's Global Goals">Learn About the UN's Global Goals</a></li>
+
+<li><a href="https://trailhead.salesforce.com/content/learn/trails/salesforce_advantage" target="_blank" alt="Navigate the Salesforce Advantage">Navigate the Salesforce Advantage</a></li>
+
+<li><a href="https://trailhead.salesforce.com/content/learn/trails/reach_audience_rad" target="_blank" alt="Reach Your Audience with Rad Content">Reach Your Audience with Rad Content</a></li>
+
+<li><a href="https://trailhead.salesforce.com/content/learn/trails/strengthen-and-diversify-your-workforce-with-military-veterans" target="_blank" alt="Strengthen and Diversify Your Workforce with Military Veterans">Strengthen and Diversify Your Workforce with Military Veterans</a></li>
 
 </ul>
