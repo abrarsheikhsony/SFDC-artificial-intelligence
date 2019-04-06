@@ -305,6 +305,8 @@ Einstein can be viewed as two categories:
 
 <li><a href="https://trailhead.salesforce.com/content/learn/projects/analytics_charts_icons" target="_blank" alt="Trailhead Project: Build a Gauge Chart That Visually Identifies Regional Data">Trailhead Project: Build a Gauge Chart That Visually Identifies Regional Data</a></li>
 
+<li><a href="https://trailhead.salesforce.com/content/learn/projects/advanced-dashboard-techniques" target="_blank" alt="Trailhead Project: Build Advanced Analytics Dashboards">Trailhead Project: Build Advanced Analytics Dashboards</a></li>
+
 <li><a href="TEST" target="_blank" alt="TEST">TEST</a></li>
 
 <li><a href="TEST" target="_blank" alt="TEST">TEST</a></li>
