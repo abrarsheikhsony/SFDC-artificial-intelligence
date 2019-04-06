@@ -253,6 +253,8 @@ Einstein can be viewed as two categories:
 
 <li><a href="https://trailhead.salesforce.com/users/sparulekar/trailmixes/become-an-ai-trailblazer" target="_blank" alt="Trailmix: Become an AI Trailblazer">Trailmix: Become an AI Trailblazer</a></li>
 
+<li><a href="https://trailhead.salesforce.com/users/unlikely/trailmixes/marks-einstein-analytics-trailmix" target="_blank" alt="Trailmix: Mark's Einstein Trailmix">Trailmix: Mark's Einstein Trailmix</a></li>
+
 <li><a href="https://trailhead.salesforce.com/en/content/learn/trails/innovate-with-alexa-and-amazon-web-services" target="_blank" alt="Innovate with Alexa and Amazon Web Services">Innovate with Alexa and Amazon Web Services</a></li>
 
 </ul>
