@@ -420,3 +420,12 @@ Einstein can be viewed as two categories:
 <li><a href="https://www.pwc.com/us/en/services/consulting/library/consumer-intelligence-series/voice-assistants.html" target="_blank" alt="PwC: Prepare for the voice revolution">PwC: Prepare for the voice revolution</a></li>
 
 </ul>
+
+## Other Trailheads
+<ul>
+
+<li><a href="https://trailhead.salesforce.com/content/learn/trails/build-your-customer-service-management-toolkit" target="_blank" alt="Build Your Customer Service Management Toolkit">Build Your Customer Service Management Toolkit</a></li>
+
+<li><a href="https://trailhead.salesforce.com/content/learn/trails/be-the-bank-your-customers-love" target="_blank" alt="Be the Bank Your Customers Love">Be the Bank Your Customers Love</a></li>
+
+</ul>
