@@ -454,4 +454,12 @@ Einstein can be viewed as two categories:
 
 <li><a href="https://trailhead.salesforce.com/content/learn/trails/strengthen-and-diversify-your-workforce-with-military-veterans" target="_blank" alt="Strengthen and Diversify Your Workforce with Military Veterans">Strengthen and Diversify Your Workforce with Military Veterans</a></li>
 
+<li><a href="https://trailhead.salesforce.com/content/learn/trails/run-an-agile-team" target="_blank" alt="Learn Atlassian Agile Practices">Learn Atlassian Agile Practices</a></li>
+
+<li><a href="https://trailhead.salesforce.com/content/learn/trails/learn-salesforce-agile-practices" target="_blank" alt="Learn Salesforce Agile Practices">Learn Salesforce Agile Practices</a></li>
+
+<li><a href="https://trailhead.salesforce.com/content/learn/trails/drucker_school" target="_blank" alt="Learn Drucker School MBA Essentials">Learn Drucker School MBA Essentials</a></li>
+
+<li><a href="https://trailhead.salesforce.com/content/learn/trails/highered_heda" target="_blank" alt="Manage Your Higher Ed Data with HEDA">Manage Your Higher Ed Data with HEDA</a></li>
+
 </ul>
