@@ -303,7 +303,7 @@ Einstein can be viewed as two categories:
 
 <li><a href="https://trailhead.salesforce.com/content/learn/projects/wave_charts_custom_map" target="_blank" alt="Trailhead Project: Create a Custom Map for Analytics Charts">Trailhead Project: Create a Custom Map for Analytics Charts</a></li>
 
-<li><a href="TEST" target="_blank" alt="TEST">TEST</a></li>
+<li><a href="https://trailhead.salesforce.com/content/learn/projects/analytics_charts_icons" target="_blank" alt="Trailhead Project: Build a Gauge Chart That Visually Identifies Regional Data">Trailhead Project: Build a Gauge Chart That Visually Identifies Regional Data</a></li>
 
 <li><a href="TEST" target="_blank" alt="TEST">TEST</a></li>
 
