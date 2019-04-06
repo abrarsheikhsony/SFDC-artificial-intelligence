@@ -389,6 +389,8 @@ Einstein can be viewed as two categories:
 
 <li><a href="https://trailhead.salesforce.com/content/learn/projects/surface-data-from-ibm-watson-discovery-in-salesforce" target="_blank" alt="Trailhead Project: Surface Data from IBM Watson Discovery in Salesforce">Trailhead Project: Surface Data from IBM Watson Discovery in Salesforce</a></li>
 
+<li><a href="https://trailhead.salesforce.com/content/learn/projects/incorporate-ibm-weather-company-data" target="_blank" alt="Trailhead Project: Incorporate Data from The Weather Company in Salesforce">Trailhead Project: Incorporate Data from The Weather Company in Salesforce</a></li>
+
 </ul>
 
 ## TactAI
