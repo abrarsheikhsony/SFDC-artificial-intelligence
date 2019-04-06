@@ -137,6 +137,7 @@ Einstein can be viewed as two categories:
 <li>Service Cloud</li>
 
 <ul>
+<li>Einstein Case Classification</li>
 <li>Einstein Next Best Action</li>
 <li>Einstein Predictions / Suggestions / Recommendations</li>
 </ul>
@@ -163,17 +164,18 @@ Einstein can be viewed as two categories:
 <li>Einstein Voice Bots = enabling your customers</li>
 </ul>
 
+<li>Einstein Next Best Action (NBA) / Einstein Recommendations</li>
+<ul>
+<li>Allows you to use rules-based and predictive models</li>
+<li>Intelligent, contextual recommendations and offers</li>
+<li>Strategy Builder is a point-and-click automation tool for creating strategies for Einstein Next Best Action</li>
+</ul>
+
 <li>Einstein Prediction Builder</li>
 <ul>
 <li>It is meant for Salesforce admins to embed predictions for their Salesforce users</li>
 <li>Do I want to predict the answer to a yes or no question? (Binary Classification)</li>
 <li>Do I want to predict an amount? (Regression—in Beta)</li>
-</ul>
-
-<li>Einstein Next Best Action (NBA) / Einstein Recommendations</li>
-<ul>
-<li>Allows you to use rules-based and predictive models</li>
-<li>Intelligent, contextual recommendations and offers</li>
 </ul>
 
 <li>Einstein Discovery</li>
