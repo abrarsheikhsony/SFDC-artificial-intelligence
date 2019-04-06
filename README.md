@@ -257,6 +257,20 @@ Einstein can be viewed as two categories:
 
 <li><a href="https://trailhead.salesforce.com/en/content/learn/trails/innovate-with-alexa-and-amazon-web-services" target="_blank" alt="Innovate with Alexa and Amazon Web Services">Innovate with Alexa and Amazon Web Services</a></li>
 
+<li><a href="https://trailhead.salesforce.com/content/learn/projects/prediction_builder" target="_blank" alt="Trailhead Project: Einstein Prediction Builder">Trailhead Project: Einstein Prediction Builder</a></li>
+
+<li><a href="https://trailhead.salesforce.com/content/learn/projects/predictive_vision_apex" target="_blank" alt="Trailhead Project: Einstein Image Classification">Trailhead Project: Einstein Image Classification</a></li>
+
+<li><a href="https://trailhead.salesforce.com/content/learn/projects/prioritize-leads-with-einstein-lead-scoring" target="_blank" alt="Trailhead Project: Prioritize Leads with Einstein Lead Scoring">Trailhead Project: Prioritize Leads with Einstein Lead Scoring</a></li>
+
+<li><a href="TEST" target="_blank" alt="TEST">TEST</a></li>
+
+<li><a href="TEST" target="_blank" alt="TEST">TEST</a></li>
+
+<li><a href="TEST" target="_blank" alt="TEST">TEST</a></li>
+
+<li><a href="TEST" target="_blank" alt="TEST">TEST</a></li>
+
 </ul>
 
 <li>Salesforce Einstein Analytics</li>
@@ -278,6 +292,13 @@ Einstein can be viewed as two categories:
 <li><a href="https://trailhead.salesforce.com/content/learn/modules/big-data-strategy" target="_blank" alt="Strategies for Big Data Architecture">Strategies for Big Data Architecture</a></li>
 
 <li><a href="https://trailhead.salesforce.com/users/strailhead/trailmixes/architect-analytics-architecture" target="_blank" alt="Trailmix Architect Journey: Analytics Architecture">Trailmix Architect Journey: Analytics Architecture</a></li>
+
+<li><a href="https://trailhead.salesforce.com/content/learn/projects/quick-start-einstein-analytics" target="_blank" alt="Trailhead Project: Einstein Analytics">Trailhead Project: Einstein Analytics</a></li>
+
+<li><a href="TEST" target="_blank" alt="TEST">TEST</a></li>
+
+<li><a href="TEST" target="_blank" alt="TEST">TEST</a></li>
+
 
 </ul>
 
