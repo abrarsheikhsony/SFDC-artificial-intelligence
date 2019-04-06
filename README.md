@@ -334,39 +334,29 @@ Einstein can be viewed as two categories:
 
 
 
-## Salesforce and Slack
-<ul>
-
-<li><a href="https://trailhead.salesforce.com/content/learn/trails/develop-slack-apps" target="_blank" alt="Trailhead: Develop Apps for Slack">Trailhead: Develop Apps for Slack</a></li>
-
-</ul>
-
-## Salesforce and Amazon, Alexa
-<ul>
-
-<li><a href="https://trailhead.salesforce.com/en/content/learn/trails/innovate-with-alexa-and-amazon-web-services" target="_blank" alt="Innovate with Alexa and Amazon Web Services">Innovate with Alexa and Amazon Web Services</a></li>
-
-<li><a href="https://trailhead.salesforce.com/content/learn/projects/build-an-alexa-skill" target="_blank" alt="Trailhead Project: Build an Alexa Skill">Trailhead Project: Build an Alexa Skill</a></li>
-
-<li><a href="https://trailhead.salesforce.com/content/learn/projects/build-an-amazon-connect-integration" target="_blank" alt="Trailhead Project: Build an Amazon Connect Integration">Trailhead Project: Build an Amazon Connect Integration</a></li>
-
-<li><a href="https://trailhead.salesforce.com/content/learn/projects/build-a-private-alexa-for-business-skill-for-salesforce" target="_blank" alt="Trailhead Project: Build a Private Alexa for Business Skill for Salesforce">Trailhead Project: Build a Private Alexa for Business Skill for Salesforce</a></li>
-
-<li><a href="TEST" target="_blank" alt="TEST">TEST</a></li>
-
-</ul>
 
 ## Salesforce and Google
 <ul>
 
 <li><a href="https://trailhead.salesforce.com/content/learn/projects/query-github-data-using-bigquery" target="_blank" alt="Trailhead Project: Query GitHub Data Using BigQuery">Trailhead Project: Query GitHub Data Using BigQuery</a></li>
 
-<li><a href="https://trailhead.salesforce.com/content/learn/trails/understand-your-web-users-with-google-analytics" target="_blank" alt="Trailhead: Understand Your Web Users with Google Analytics">Trailhead: Understand Your Web Users with Google Analytics</a></li>
+<li><a href="https://trailhead.salesforce.com/content/learn/trails/understand-your-web-users-with-google-analytics" target="_blank" alt="Trail: Understand Your Web Users with Google Analytics">Trail: Understand Your Web Users with Google Analytics</a></li>
 
 </ul>
 
+## Salesforce and Amazon, Alexa
+<ul>
 
+<li><a href="https://trailhead.salesforce.com/en/content/learn/trails/innovate-with-alexa-and-amazon-web-services" target="_blank" alt="Trail: Innovate with Alexa and Amazon Web Services">Trail: Innovate with Alexa and Amazon Web Services</a></li>
 
+</ul>
+
+## Salesforce and Slack
+<ul>
+
+<li><a href="https://trailhead.salesforce.com/content/learn/trails/develop-slack-apps" target="_blank" alt="Trail: Develop Apps for Slack">Trail: Develop Apps for Slack</a></li>
+
+</ul>
 
 ## IBM Watson & Salesforce
 <ul>
@@ -385,16 +375,7 @@ Einstein can be viewed as two categories:
 
 </ul>
 
-## TactAI
-<ul>
 
-<li><a href="https://tact.ai/" target="_blank" alt="TactAI: Amazon, Microsoft, Salesforce">TactAI: Amazon, Microsoft, Salesforce</a></li>
-
-<li><a href="https://www.youtube.com/watch?v=mbXGPJMFNAE" target="_blank" alt="YouTube: Founder & CEO of TactAI speaking on Bloomberg Businessweek">YouTube: Founder & CEO of TactAI speaking on Bloomberg Businessweek</a></li>
-
-<li><a href="https://www.youtube.com/channel/UCbyiIf8hImU-I7zWl-i7OGw" target="_blank" alt="YouTube: TactAI">YouTube: TactAI</a></li>
-
-</ul>
 
 ## Other Blogs
 <ul>
@@ -461,5 +442,16 @@ Einstein can be viewed as two categories:
 <ul>
 
 <li><a href="https://trailhead.salesforce.com/content/learn/trails/learn-about-the-fourth-industrial-revolution" target="_blank" alt="Learn About the Fourth Industrial Revolution">Learn About the Fourth Industrial Revolution</a></li>
+
+</ul>
+
+## TactAI
+<ul>
+
+<li><a href="https://tact.ai/" target="_blank" alt="TactAI: Amazon, Microsoft, Salesforce">TactAI: Amazon, Microsoft, Salesforce</a></li>
+
+<li><a href="https://www.youtube.com/watch?v=mbXGPJMFNAE" target="_blank" alt="YouTube: Founder & CEO of TactAI speaking on Bloomberg Businessweek">YouTube: Founder & CEO of TactAI speaking on Bloomberg Businessweek</a></li>
+
+<li><a href="https://www.youtube.com/channel/UCbyiIf8hImU-I7zWl-i7OGw" target="_blank" alt="YouTube: TactAI">YouTube: TactAI</a></li>
 
 </ul>
