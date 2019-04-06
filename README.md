@@ -393,7 +393,7 @@ Einstein can be viewed as two categories:
 ## Fourth (4th) Industrial Revolution
 <ul>
 
-<li><a href="https://trailhead.salesforce.com/content/learn/trails/learn-about-the-fourth-industrial-revolution" target="_blank" alt="Learn About the Fourth Industrial Revolution">Learn About the Fourth Industrial Revolution</a></li>
+<li><a href="https://trailhead.salesforce.com/content/learn/trails/learn-about-the-fourth-industrial-revolution" target="_blank" alt="Trail: Learn About the Fourth Industrial Revolution">Trail: Learn About the Fourth Industrial Revolution</a></li>
 
 <li><a href="https://www.inc.com/rebecca-hinds/by-2020-youre-more-likely-to-have-a-conversation-with-this-than-with-your-spouse.html" target="_blank" alt="By 2020, You're More Likely to Have a Conversation With This Than With Your Spouse">By 2020, You're More Likely to Have a Conversation With This Than With Your Spouse</a></li>
 
@@ -425,10 +425,8 @@ Einstein can be viewed as two categories:
 
 
 
-## Other Trailheads
+## Entrepreneurship
 <ul>
-
-<li><a href="https://trailhead.salesforce.com/content/learn/trails/learn-about-the-fourth-industrial-revolution" target="_blank" alt="Learn About the Fourth Industrial Revolution">Learn About the Fourth Industrial Revolution</a></li>
 
 <li><a href="https://trailhead.salesforce.com/content/learn/trails/build-your-customer-service-management-toolkit" target="_blank" alt="Build Your Customer Service Management Toolkit">Build Your Customer Service Management Toolkit</a></li>
 
