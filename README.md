@@ -221,23 +221,16 @@ Einstein can be viewed as two categories:
 
 </ol>
 
-## Artificial Intelligence in Salesforce
+## Artificial Intelligence (AI) in Salesforce
 <ul>
 
-<li><a href="https://trailhead.salesforce.com/content/learn/trails/learn-about-the-fourth-industrial-revolution" target="_blank" alt="Learn About the Fourth Industrial Revolution">Learn About the Fourth Industrial Revolution</a></li>
-
-<li><a href="https://trailhead.salesforce.com/content/learn/modules/impacts-of-the-fourth-industrial-revolution" target="_blank" alt="Impacts of the Fourth Industrial Revolution">Impacts of the Fourth Industrial Revolution</a></li>
-
 <li><a href="https://www.salesforce.com/products/einstein/ai-deep-dive/" target="_blank" alt="Salesforce: Take a deep dive into artificial intelligence">Salesforce Blog: Take a deep dive into artificial intelligence</a></li>
-
-<li><a href="https://venturebeat.com/2016/04/04/salesforce-buys-hot-deep-learning-startup-metamind-services-shutting-down-may-4/" target="_blank" alt="Salesforce buys hot deep learning startup MetaMind, services shutting down May 4">Salesforce buys hot deep learning startup MetaMind, services shutting down May 4</a></li>
-
-<li><a href="https://www.businessinsider.com/salesforce-spent-75-million-on-acquisitions-in-q2-2016-5?r=US&IR=T" target="_blank" alt="Salesforce reveals it spent $75 million on the three startups it bought last quarter">Salesforce reveals it spent $75 million on the three startups it bought last quarter</a></li>
 
 </ul>
 
 ## Salesforce Trailhead
 <ul>
+
 
 <li>Salesforce Einstein</li>
 
@@ -309,27 +302,23 @@ Einstein can be viewed as two categories:
 
 <li><a href="https://trailhead.salesforce.com/content/learn/projects/advanced-dashboard-techniques" target="_blank" alt="Trailhead Project: Build Advanced Analytics Dashboards">Trailhead Project: Build Advanced Analytics Dashboards</a></li>
 
-<li><a href="TEST" target="_blank" alt="TEST">TEST</a></li>
-
-<li><a href="TEST" target="_blank" alt="TEST">TEST</a></li>
-
 </ul>
 
 
-</ul>
+<li>Salesforce Einstein Platform Services</li>
 
-## Salesforce Einstein & MetaMind
 <ul>
 
-<li><a href="https://metamind.readme.io/" target="_blank" alt="metamind.readme.io">metamind.readme.io</a></li>
+<li><a href="https://metamind.readme.io/" target="_blank" alt="Einstein Vision & Einstein Language APIs">Einstein Vision & Einstein Language APIs</a></li>
 
-<li><a href="https://metamind.readme.io/v2/docs" target="_blank" alt="Introduction to Salesforce Einstein Vision">Introduction to Salesforce Einstein Vision</a></li>
+<li><a href="https://api.metamind.io/signup" target="_blank" alt="Einstein Platform Services Signup">Einstein Platform Services Signup</a></li>
 
-<li><a href="https://api.metamind.io/signup" target="_blank" alt="Einstein Platform Services">Einstein Platform Services</a></li>
+<li><a href="https://einstein.ai/" target="_blank" alt="Salesforce Einstein Research">Salesforce Einstein Research</a></li>
 
-<li><a href="https://einstein.ai/" target="_blank" alt="einstein.ai">einstein.ai</a></li>
+<li><a href="https://developer.salesforce.com/developer-centers/ein-platform/" target="_blank" alt="Einstein Platform: Developer Center">Einstein Platform: Developer Center</a></li>
 
-<li><a href="https://developer.salesforce.com/developer-centers/ein-platform/" target="_blank" alt="Einstein Platform">Einstein Platform</a></li>
+</ul>
+
 
 </ul>
 
@@ -463,5 +452,27 @@ Einstein can be viewed as two categories:
 <li><a href="https://trailhead.salesforce.com/content/learn/trails/drucker_school" target="_blank" alt="Learn Drucker School MBA Essentials">Learn Drucker School MBA Essentials</a></li>
 
 <li><a href="https://trailhead.salesforce.com/content/learn/trails/highered_heda" target="_blank" alt="Manage Your Higher Ed Data with HEDA">Manage Your Higher Ed Data with HEDA</a></li>
+
+</ul>
+
+
+
+
+
+
+
+## Salesforce Acquisitions
+<ul>
+  
+<li><a href="https://venturebeat.com/2016/04/04/salesforce-buys-hot-deep-learning-startup-metamind-services-shutting-down-may-4/" target="_blank" alt="Salesforce buys hot deep learning startup MetaMind, services shutting down May 4">Salesforce buys hot deep learning startup MetaMind, services shutting down May 4</a></li>
+
+<li><a href="https://www.businessinsider.com/salesforce-spent-75-million-on-acquisitions-in-q2-2016-5?r=US&IR=T" target="_blank" alt="Salesforce reveals it spent $75 million on the three startups it bought last quarter">Salesforce reveals it spent $75 million on the three startups it bought last quarter</a></li>
+
+</ul>
+
+## Fourth (4th) Industrial Revolution
+<ul>
+
+<li><a href="https://trailhead.salesforce.com/content/learn/trails/learn-about-the-fourth-industrial-revolution" target="_blank" alt="Learn About the Fourth Industrial Revolution">Learn About the Fourth Industrial Revolution</a></li>
 
 </ul>
