@@ -299,6 +299,13 @@ Einstein can be viewed as two categories:
 
 </ul>
 
+## Salesforce Violet (Voice Skills)
+<ul>
+
+<li><a href="https://trailhead.salesforce.com/content/learn/projects/quickstart-violet" target="_blank" alt="Trailhead Project: Violet">Trailhead Project: Violet</a></li>
+
+</ul>
+
 ## Salesforce Winter '19 Release
 <ul>
 
