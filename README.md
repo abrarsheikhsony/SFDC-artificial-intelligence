@@ -298,15 +298,6 @@ Einstein can be viewed as two categories:
 </ul>
 
 
-<li>Videos</li>
-
-<ul>
-
-<li><a href="https://www.salesforce.com/video/3379030/" target="_blank" alt="Salesforce Einstein Keynote: Meet Your Smart CRM Assistant">Salesforce Einstein Keynote: Meet Your Smart CRM Assistant</a></li>
-
-</ul>
-
-
 <li>Salesforce Releases</li>
 
 <ul>
@@ -316,6 +307,15 @@ Einstein can be viewed as two categories:
 <li><a href="https://releasenotes.docs.salesforce.com/en-us/winter19/release-notes/rn_service.htm" target="_blank" alt="Service Cloud features in Winter '19">Service Cloud features in Winter '19</a></li>
 
 <li><a href="https://releasenotes.docs.salesforce.com/en-us/spring19/release-notes/rn_service_einstein.htm" target="_blank" alt="Einstein features in Spring '19">Einstein features in Spring '19</a></li>
+
+</ul>
+
+
+<li>Videos</li>
+
+<ul>
+
+<li><a href="https://www.salesforce.com/video/3379030/" target="_blank" alt="Salesforce Einstein Keynote: Meet Your Smart CRM Assistant">Salesforce Einstein Keynote: Meet Your Smart CRM Assistant</a></li>
 
 </ul>
 
