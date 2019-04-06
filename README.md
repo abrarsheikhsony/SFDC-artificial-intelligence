@@ -263,7 +263,7 @@ Einstein can be viewed as two categories:
 
 <li><a href="https://trailhead.salesforce.com/content/learn/projects/prioritize-leads-with-einstein-lead-scoring" target="_blank" alt="Trailhead Project: Prioritize Leads with Einstein Lead Scoring">Trailhead Project: Prioritize Leads with Einstein Lead Scoring</a></li>
 
-<li><a href="TEST" target="_blank" alt="TEST">TEST</a></li>
+<li><a href="https://trailhead.salesforce.com/content/learn/projects/build-an-einstein-bot" target="_blank" alt="Trailhead Project: Build an Einstein Bot">Trailhead Project: Build an Einstein Bot</a></li>
 
 <li><a href="TEST" target="_blank" alt="TEST">TEST</a></li>
 
@@ -295,10 +295,19 @@ Einstein can be viewed as two categories:
 
 <li><a href="https://trailhead.salesforce.com/content/learn/projects/quick-start-einstein-analytics" target="_blank" alt="Trailhead Project: Einstein Analytics">Trailhead Project: Einstein Analytics</a></li>
 
-<li><a href="TEST" target="_blank" alt="TEST">TEST</a></li>
+<li><a href="https://trailhead.salesforce.com/content/learn/projects/integrate-local-and-remote-data-in-einstein-analytics" target="_blank" alt="Trailhead Project: Integrate Local and Remote Data in Einstein Analytics">Trailhead Project: Integrate Local and Remote Data in Einstein Analytics</a></li>
+
+<li><a href="https://trailhead.salesforce.com/content/learn/projects/embed-an-einstein-analytics-dashboard-in-lightning-experience" target="_blank" alt="Trailhead Project: Embed an Einstein Analytics Dashboard in Lightning Experience">Trailhead Project: Embed an Einstein Analytics Dashboard in Lightning Experience</a></li>
+
+<li><a href="https://trailhead.salesforce.com/content/learn/projects/wave_charts_prod_pipeline" target="_blank" alt="Trailhead Project: Create a Product Pipeline Dashboard with Analytics Charts">Trailhead Project: Create a Product Pipeline Dashboard with Analytics Charts</a></li>
+
+<li><a href="https://trailhead.salesforce.com/content/learn/projects/wave_charts_custom_map" target="_blank" alt="Trailhead Project: Create a Custom Map for Analytics Charts">Trailhead Project: Create a Custom Map for Analytics Charts</a></li>
 
 <li><a href="TEST" target="_blank" alt="TEST">TEST</a></li>
 
+<li><a href="TEST" target="_blank" alt="TEST">TEST</a></li>
+
+<li><a href="TEST" target="_blank" alt="TEST">TEST</a></li>
 
 </ul>
 
