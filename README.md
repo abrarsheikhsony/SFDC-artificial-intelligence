@@ -266,35 +266,19 @@ Einstein can be viewed as two categories:
 
 <ul>
 
-<li><a href="https://trailhead.salesforce.com/content/learn/trails/wave_analytics_einstein_discovery" target="_blank" alt="Gain Insight with Einstein Discovery">Gain Insight with Einstein Discovery</a></li>
+<li><a href="https://trailhead.salesforce.com/content/learn/trails/wave_analytics_enable_and_produce" target="_blank" alt="Trail: Build and Administer Analytics">Trail: Build and Administer Analytics</a></li>
 
-<li><a href="https://trailhead.salesforce.com/content/learn/trails/wave_analytics_enable_and_produce" target="_blank" alt="Build and Administer Analytics">Build and Administer Analytics</a></li>
+<li><a href="https://trailhead.salesforce.com/content/learn/trails/wave_analytics_explorer" target="_blank" alt="Trail: Explore with Analytics">Trail: Explore with Analytics</a></li>
 
-<li><a href="https://trailhead.salesforce.com/content/learn/trails/wave_analytics_explorer" target="_blank" alt="Explore with Analytics">Explore with Analytics</a></li>
-
-<li><a href="https://trailhead.salesforce.com/content/learn/trails/wave_analytics_apps" target="_blank" alt="Accelerate Analytics with Apps">Accelerate Analytics with Apps</a></li>
-
-<li><a href="https://trailhead.salesforce.com/en/content/learn/superbadges/superbadge_analytics_integration_specialist" target="_blank" alt="Einstein Analytics Data Preparation Specialist">Einstein Analytics Data Preparation Specialist</a></li>
-
-<li><a href="https://trailhead.salesforce.com/en/content/learn/superbadges/superbadge_analytics_insights_specialist" target="_blank" alt="Einstein Analytics and Discovery Insights Specialist">Einstein Analytics and Discovery Insights Specialist</a></li>
-
-<li><a href="https://trailhead.salesforce.com/content/learn/modules/big-data-strategy" target="_blank" alt="Strategies for Big Data Architecture">Strategies for Big Data Architecture</a></li>
+<li><a href="https://trailhead.salesforce.com/content/learn/trails/wave_analytics_apps" target="_blank" alt="Trail: Accelerate Analytics with Apps">Trail: Accelerate Analytics with Apps</a></li>
 
 <li><a href="https://trailhead.salesforce.com/users/strailhead/trailmixes/architect-analytics-architecture" target="_blank" alt="Trailmix Architect Journey: Analytics Architecture">Trailmix Architect Journey: Analytics Architecture</a></li>
 
-<li><a href="https://trailhead.salesforce.com/content/learn/projects/quick-start-einstein-analytics" target="_blank" alt="Trailhead Project: Einstein Analytics">Trailhead Project: Einstein Analytics</a></li>
+<li><a href="https://trailhead.salesforce.com/content/learn/modules/big-data-strategy" target="_blank" alt="Strategies for Big Data Architecture">Strategies for Big Data Architecture</a></li>
 
-<li><a href="https://trailhead.salesforce.com/content/learn/projects/integrate-local-and-remote-data-in-einstein-analytics" target="_blank" alt="Trailhead Project: Integrate Local and Remote Data in Einstein Analytics">Trailhead Project: Integrate Local and Remote Data in Einstein Analytics</a></li>
+<li><a href="https://trailhead.salesforce.com/en/content/learn/superbadges/superbadge_analytics_integration_specialist" target="_blank" alt="Superbadge: Einstein Analytics Data Preparation Specialist">Superbadge: Einstein Analytics Data Preparation Specialist</a></li>
 
-<li><a href="https://trailhead.salesforce.com/content/learn/projects/embed-an-einstein-analytics-dashboard-in-lightning-experience" target="_blank" alt="Trailhead Project: Embed an Einstein Analytics Dashboard in Lightning Experience">Trailhead Project: Embed an Einstein Analytics Dashboard in Lightning Experience</a></li>
-
-<li><a href="https://trailhead.salesforce.com/content/learn/projects/wave_charts_prod_pipeline" target="_blank" alt="Trailhead Project: Create a Product Pipeline Dashboard with Analytics Charts">Trailhead Project: Create a Product Pipeline Dashboard with Analytics Charts</a></li>
-
-<li><a href="https://trailhead.salesforce.com/content/learn/projects/wave_charts_custom_map" target="_blank" alt="Trailhead Project: Create a Custom Map for Analytics Charts">Trailhead Project: Create a Custom Map for Analytics Charts</a></li>
-
-<li><a href="https://trailhead.salesforce.com/content/learn/projects/analytics_charts_icons" target="_blank" alt="Trailhead Project: Build a Gauge Chart That Visually Identifies Regional Data">Trailhead Project: Build a Gauge Chart That Visually Identifies Regional Data</a></li>
-
-<li><a href="https://trailhead.salesforce.com/content/learn/projects/advanced-dashboard-techniques" target="_blank" alt="Trailhead Project: Build Advanced Analytics Dashboards">Trailhead Project: Build Advanced Analytics Dashboards</a></li>
+<li><a href="https://trailhead.salesforce.com/en/content/learn/superbadges/superbadge_analytics_insights_specialist" target="_blank" alt="Superbadge: Einstein Analytics and Discovery Insights Specialist">Superbadge: Einstein Analytics and Discovery Insights Specialist</a></li>
 
 </ul>
 
