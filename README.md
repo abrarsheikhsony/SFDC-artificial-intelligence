@@ -236,39 +236,35 @@ Einstein can be viewed as two categories:
 
 <ul>
 
-<li><a href="https://trailhead.salesforce.com/content/learn/trails/get_smart_einstein" target="_blank" alt="Get Smart with Salesforce Einstein">Get Smart with Salesforce Einstein</a></li>
-
-<li><a href="https://trailhead.salesforce.com/content/learn/modules/einstein-prediction-builder" target="_blank" alt="Einstein Prediction Builder">Einstein Prediction Builder</a></li>
-
-<li><a href="https://developer.salesforce.com/events/webinars/predictivevisionservice?d=7010M000001y9mg" target="_blank" alt="Build Smarter Apps with New Predictive Vision Service">Build Smarter Apps with New Predictive Vision Service</a></li>
-
-<li><a href="https://trailhead.salesforce.com/content/learn/projects/build-a-cat-rescue-app-that-recognizes-cat-breeds" target="_blank" alt="Build a Cat Rescue App That Recognizes Cat Breeds">Build a Cat Rescue App That Recognizes Cat Breeds</a></li>
-
-<li><a href="https://trailhead.salesforce.com/content/learn/trails/explore-deep-learning-for-nlp" target="_blank" alt="Explore Deep Learning for Natural Language Processing">Explore Deep Learning for Natural Language Processing</a></li>
+<li><a href="https://trailhead.salesforce.com/content/learn/trails/get_smart_einstein" target="_blank" alt="Trail: Get Smart with Salesforce Einstein">Trail: Get Smart with Salesforce Einstein</a></li>
 
 <li><a href="https://trailhead.salesforce.com/users/sparulekar/trailmixes/become-an-ai-trailblazer" target="_blank" alt="Trailmix: Become an AI Trailblazer">Trailmix: Become an AI Trailblazer</a></li>
 
 <li><a href="https://trailhead.salesforce.com/users/unlikely/trailmixes/marks-einstein-analytics-trailmix" target="_blank" alt="Trailmix: Mark's Einstein Trailmix">Trailmix: Mark's Einstein Trailmix</a></li>
 
-<li><a href="https://trailhead.salesforce.com/en/content/learn/trails/innovate-with-alexa-and-amazon-web-services" target="_blank" alt="Innovate with Alexa and Amazon Web Services">Innovate with Alexa and Amazon Web Services</a></li>
-
-<li><a href="https://trailhead.salesforce.com/content/learn/projects/prediction_builder" target="_blank" alt="Trailhead Project: Einstein Prediction Builder">Trailhead Project: Einstein Prediction Builder</a></li>
-
-<li><a href="https://trailhead.salesforce.com/content/learn/projects/predictive_vision_apex" target="_blank" alt="Trailhead Project: Einstein Image Classification">Trailhead Project: Einstein Image Classification</a></li>
-
-<li><a href="https://trailhead.salesforce.com/content/learn/projects/prioritize-leads-with-einstein-lead-scoring" target="_blank" alt="Trailhead Project: Prioritize Leads with Einstein Lead Scoring">Trailhead Project: Prioritize Leads with Einstein Lead Scoring</a></li>
-
-<li><a href="https://trailhead.salesforce.com/content/learn/projects/build-an-einstein-bot" target="_blank" alt="Trailhead Project: Build an Einstein Bot">Trailhead Project: Build an Einstein Bot</a></li>
-
 <li><a href="https://releasenotes.docs.salesforce.com/en-us/spring19/release-notes/rn_service_case_classification.htm" target="_blank" alt="Einstein Case Classification">Einstein Case Classification</a></li>
+
+<li><a href="https://trailhead.salesforce.com/content/learn/modules/einstein-prediction-builder" target="_blank" alt="Einstein Prediction Builder">Einstein Prediction Builder</a></li>
 
 <li><a href="https://releasenotes.docs.salesforce.com/en-us/spring19/release-notes/rn_service_case_einstein_nba.htm" target="_blank" alt="Einstein Next Best Action">Einstein Next Best Action</a></li>
 
-<li><a href="https://releasenotes.docs.salesforce.com/en-us/spring19/release-notes/rn_forcecom_einstein.htm" target="_blank" alt="Einstein: Next Best Action and Prediction Builder">Einstein: Next Best Action and Prediction Builder</a></li>
+<li><a href="https://releasenotes.docs.salesforce.com/en-us/spring19/release-notes/rn_forcecom_einstein.htm" target="_blank" alt="Einstein Customization: Next Best Action and Prediction Builder">Einstein Customization: Next Best Action and Prediction Builder</a></li>
+
+<li><a href="https://developer.salesforce.com/events/webinars/predictivevisionservice?d=7010M000001y9mg" target="_blank" alt="Build Smarter Apps with New Predictive Vision Service">Build Smarter Apps with New Predictive Vision Service</a></li>
 
 </ul>
 
-<li>Salesforce Einstein Analytics</li>
+
+<li>Deep Learning & Natural Language Processing (NLP)</li>
+
+<ul>
+
+<li><a href="https://trailhead.salesforce.com/content/learn/trails/explore-deep-learning-for-nlp" target="_blank" alt="Explore Deep Learning for Natural Language Processing">Explore Deep Learning for Natural Language Processing</a></li>
+
+</ul>
+
+
+<li>Einstein Analytics</li>
 
 <ul>
 
@@ -305,7 +301,7 @@ Einstein can be viewed as two categories:
 </ul>
 
 
-<li>Salesforce Einstein Platform Services</li>
+<li>Einstein Platform Services</li>
 
 <ul>
 
@@ -322,13 +318,6 @@ Einstein can be viewed as two categories:
 
 </ul>
 
-## Salesforce and Violet (Voice Skills)
-<ul>
-
-<li><a href="https://trailhead.salesforce.com/content/learn/projects/quickstart-violet" target="_blank" alt="Trailhead Project: Violet">Trailhead Project: Violet</a></li>
-
-</ul>
-
 ## Salesforce and Slack
 <ul>
 
@@ -338,6 +327,8 @@ Einstein can be viewed as two categories:
 
 ## Salesforce and Amazon, Alexa
 <ul>
+
+<li><a href="https://trailhead.salesforce.com/en/content/learn/trails/innovate-with-alexa-and-amazon-web-services" target="_blank" alt="Innovate with Alexa and Amazon Web Services">Innovate with Alexa and Amazon Web Services</a></li>
 
 <li><a href="https://trailhead.salesforce.com/content/learn/projects/build-an-alexa-skill" target="_blank" alt="Trailhead Project: Build an Alexa Skill">Trailhead Project: Build an Alexa Skill</a></li>
 
