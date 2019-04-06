@@ -327,11 +327,6 @@ Einstein can be viewed as two categories:
 
 
 
-
-
-
-
-
 ## Salesforce and IBM Watson
 <ul>
 
@@ -377,33 +372,12 @@ Einstein can be viewed as two categories:
 
 
 
-
-
-
-
 ## Salesforce Acquisitions
 <ul>
   
 <li><a href="https://venturebeat.com/2016/04/04/salesforce-buys-hot-deep-learning-startup-metamind-services-shutting-down-may-4/" target="_blank" alt="Salesforce buys hot deep learning startup MetaMind, services shutting down May 4">Salesforce buys hot deep learning startup MetaMind, services shutting down May 4</a></li>
 
 <li><a href="https://www.businessinsider.com/salesforce-spent-75-million-on-acquisitions-in-q2-2016-5?r=US&IR=T" target="_blank" alt="Salesforce reveals it spent $75 million on the three startups it bought last quarter">Salesforce reveals it spent $75 million on the three startups it bought last quarter</a></li>
-
-</ul>
-
-## Fourth (4th) Industrial Revolution
-<ul>
-
-<li><a href="https://trailhead.salesforce.com/content/learn/trails/learn-about-the-fourth-industrial-revolution" target="_blank" alt="Trail: Learn About the Fourth Industrial Revolution">Trail: Learn About the Fourth Industrial Revolution</a></li>
-
-<li><a href="https://www.inc.com/rebecca-hinds/by-2020-youre-more-likely-to-have-a-conversation-with-this-than-with-your-spouse.html" target="_blank" alt="By 2020, You're More Likely to Have a Conversation With This Than With Your Spouse">By 2020, You're More Likely to Have a Conversation With This Than With Your Spouse</a></li>
-
-<li><a href="https://www.pwc.com/us/en/services/consulting/library/consumer-intelligence-series/voice-assistants.html" target="_blank" alt="PwC: Prepare for the voice revolution">PwC: Prepare for the voice revolution</a></li>
-
-<li><a href="https://contentmarketinginstitute.com/2018/03/chatbots-ai-context/" target="_blank" alt="Top Takeaways From Intelligent Content Conference">Top Takeaways From Intelligent Content Conference</a></li>
-
-<li><a href="https://www.nngroup.com/articles/intelligent-assistant-usability/" target="_blank" alt="Intelligent Assistants Have Poor Usability: A User Study of Alexa, Google Assistant, and Siri">Intelligent Assistants Have Poor Usability: A User Study of Alexa, Google Assistant, and Siri</a></li>
-
-<li><a href="https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471" target="_blank" alt="Machine Learning is Fun!">Machine Learning is Fun!</a></li>
 
 </ul>
 
@@ -418,38 +392,48 @@ Einstein can be viewed as two categories:
 
 </ul>
 
-
-
-
-
-
-
-
-## Entrepreneurship
+## Innovation
 <ul>
 
-<li><a href="https://trailhead.salesforce.com/content/learn/trails/build-your-customer-service-management-toolkit" target="_blank" alt="Build Your Customer Service Management Toolkit">Build Your Customer Service Management Toolkit</a></li>
-
-<li><a href="https://trailhead.salesforce.com/content/learn/trails/be-the-bank-your-customers-love" target="_blank" alt="Be the Bank Your Customers Love">Be the Bank Your Customers Love</a></li>
-
-<li><a href="https://trailhead.salesforce.com/content/learn/trails/camp-pono" target="_blank" alt="Enhance Employee Wellbeing with Camp Pono">Enhance Employee Wellbeing with Camp Pono</a></li>
+<li><a href="https://trailhead.salesforce.com/content/learn/trails/learn-about-the-fourth-industrial-revolution" target="_blank" alt="Trail: Learn About the Fourth Industrial Revolution">Trail: Learn About the Fourth Industrial Revolution</a></li>
 
 <li><a href="https://trailhead.salesforce.com/content/learn/trails/innovation_salesforce_way" target="_blank" alt="Innovate the Salesforce Way">Innovate the Salesforce Way</a></li>
 
-<li><a href="https://trailhead.salesforce.com/content/learn/trails/learn-about-the-uns-global-goals" target="_blank" alt="Learn About the UN's Global Goals">Learn About the UN's Global Goals</a></li>
-
 <li><a href="https://trailhead.salesforce.com/content/learn/trails/salesforce_advantage" target="_blank" alt="Navigate the Salesforce Advantage">Navigate the Salesforce Advantage</a></li>
+
+<li><a href="https://trailhead.salesforce.com/content/learn/trails/camp-pono" target="_blank" alt="Enhance Employee Wellbeing with Camp Pono">Enhance Employee Wellbeing with Camp Pono</a></li>
 
 <li><a href="https://trailhead.salesforce.com/content/learn/trails/reach_audience_rad" target="_blank" alt="Reach Your Audience with Rad Content">Reach Your Audience with Rad Content</a></li>
 
 <li><a href="https://trailhead.salesforce.com/content/learn/trails/strengthen-and-diversify-your-workforce-with-military-veterans" target="_blank" alt="Strengthen and Diversify Your Workforce with Military Veterans">Strengthen and Diversify Your Workforce with Military Veterans</a></li>
 
+<li><a href="https://trailhead.salesforce.com/content/learn/trails/build-your-customer-service-management-toolkit" target="_blank" alt="Build Your Customer Service Management Toolkit">Build Your Customer Service Management Toolkit</a></li>
+
+<li><a href="https://trailhead.salesforce.com/content/learn/trails/be-the-bank-your-customers-love" target="_blank" alt="Be the Bank Your Customers Love">Be the Bank Your Customers Love</a></li>
+
 <li><a href="https://trailhead.salesforce.com/content/learn/trails/run-an-agile-team" target="_blank" alt="Learn Atlassian Agile Practices">Learn Atlassian Agile Practices</a></li>
 
 <li><a href="https://trailhead.salesforce.com/content/learn/trails/learn-salesforce-agile-practices" target="_blank" alt="Learn Salesforce Agile Practices">Learn Salesforce Agile Practices</a></li>
 
+<li><a href="https://trailhead.salesforce.com/content/learn/trails/highered_heda" target="_blank" alt="Manage Your Higher Ed Data with HEDA">Manage Your Higher Ed Data with HEDA</a></li>
+
 <li><a href="https://trailhead.salesforce.com/content/learn/trails/drucker_school" target="_blank" alt="Learn Drucker School MBA Essentials">Learn Drucker School MBA Essentials</a></li>
 
-<li><a href="https://trailhead.salesforce.com/content/learn/trails/highered_heda" target="_blank" alt="Manage Your Higher Ed Data with HEDA">Manage Your Higher Ed Data with HEDA</a></li>
+<li><a href="https://trailhead.salesforce.com/content/learn/trails/learn-about-the-uns-global-goals" target="_blank" alt="Learn About the UN's Global Goals">Learn About the UN's Global Goals</a></li>
+
+</ul>
+
+## Others
+<ul>
+
+<li><a href="https://www.inc.com/rebecca-hinds/by-2020-youre-more-likely-to-have-a-conversation-with-this-than-with-your-spouse.html" target="_blank" alt="By 2020, You're More Likely to Have a Conversation With This Than With Your Spouse">By 2020, You're More Likely to Have a Conversation With This Than With Your Spouse</a></li>
+
+<li><a href="https://www.pwc.com/us/en/services/consulting/library/consumer-intelligence-series/voice-assistants.html" target="_blank" alt="PwC: Prepare for the voice revolution">PwC: Prepare for the voice revolution</a></li>
+
+<li><a href="https://contentmarketinginstitute.com/2018/03/chatbots-ai-context/" target="_blank" alt="Top Takeaways From Intelligent Content Conference">Top Takeaways From Intelligent Content Conference</a></li>
+
+<li><a href="https://www.nngroup.com/articles/intelligent-assistant-usability/" target="_blank" alt="Intelligent Assistants Have Poor Usability: A User Study of Alexa, Google Assistant, and Siri">Intelligent Assistants Have Poor Usability: A User Study of Alexa, Google Assistant, and Siri</a></li>
+
+<li><a href="https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471" target="_blank" alt="Machine Learning is Fun!">Machine Learning is Fun!</a></li>
 
 </ul>
