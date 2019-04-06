@@ -440,4 +440,7 @@ Einstein can be viewed as two categories:
 
 <li><a href="https://trailhead.salesforce.com/content/learn/trails/camp-pono" target="_blank" alt="Enhance Employee Wellbeing with Camp Pono">Enhance Employee Wellbeing with Camp Pono</a></li>
 
+<li><a href="https://trailhead.salesforce.com/content/learn/trails/innovation_salesforce_way" target="_blank" alt="Innovate the Salesforce Way">Innovate the Salesforce Way</a></li>
+
+
 </ul>
