@@ -140,6 +140,7 @@ Einstein can be viewed as two categories:
 <li>Einstein Case Classification</li>
 <li>Einstein Next Best Action</li>
 <li>Einstein Predictions / Suggestions / Recommendations</li>
+<li>Einstein Activity Capture</li>
 </ul>
 
 <li>Marketing Cloud</li>
@@ -249,6 +250,8 @@ Einstein can be viewed as two categories:
 <li><a href="https://releasenotes.docs.salesforce.com/en-us/spring19/release-notes/rn_forcecom_einstein.htm" target="_blank" alt="Einstein Customization: Next Best Action and Prediction Builder">Einstein Customization: Next Best Action and Prediction Builder</a></li>
 
 <li><a href="https://developer.salesforce.com/events/webinars/predictivevisionservice?d=7010M000001y9mg" target="_blank" alt="Build Smarter Apps with New Predictive Vision Service">Build Smarter Apps with New Predictive Vision Service</a></li>
+
+<li><a href="https://releasenotes.docs.salesforce.com/en-us/spring19/release-notes/rn_sales_productivity_einstein_activity_capture_standard.htm" target="_blank" alt="Einstein Activity Capture">Einstein Activity Capture</a></li>
 
 </ul>
 
