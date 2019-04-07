@@ -351,12 +351,22 @@ Einstein can be viewed as two categories:
 
 <li><a href="https://trailhead.salesforce.com/content/learn/trails/understand-your-web-users-with-google-analytics" target="_blank" alt="Trail: Understand Your Web Users with Google Analytics">Trail: Understand Your Web Users with Google Analytics</a></li>
 
+<li><a href="TEST" target="_blank" alt="TEST">TEST</a></li>
+
+<li><a href="TEST" target="_blank" alt="TEST">TEST</a></li>
+
+<li><a href="TEST" target="_blank" alt="TEST">TEST</a></li>
+
+<li><a href="TEST" target="_blank" alt="TEST">TEST</a></li>
+
 </ul>
 
 ## Salesforce and Amazon, Alexa
 <ul>
 
 <li><a href="https://trailhead.salesforce.com/en/content/learn/trails/innovate-with-alexa-and-amazon-web-services" target="_blank" alt="Trail: Innovate with Alexa and Amazon Web Services">Trail: Innovate with Alexa and Amazon Web Services</a></li>
+
+<li><a href="https://developer.amazon.com/docs/custom-skills/understanding-custom-skills.html" target="_blank" alt="Alexa Skills Kit">Alexa Skills Kit</a></li>
 
 </ul>
 
