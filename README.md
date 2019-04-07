@@ -245,6 +245,8 @@ Einstein can be viewed as two categories:
 
 <li><a href="https://releasenotes.docs.salesforce.com/en-us/spring19/release-notes/rn_service_case_classification.htm" target="_blank" alt="Einstein Case Classification">Einstein Case Classification</a></li>
 
+<li><a href="https://success.salesforce.com/_ui/core/chatter/groups/GroupProfilePage?g=0F93A0000004hs1SAA" target="_blank" alt="Partner Community Group: Next Best Action">Partner Community Group: Next Best Action</a></li>
+
 <li><a href="https://releasenotes.docs.salesforce.com/en-us/spring19/release-notes/rn_service_case_einstein_nba.htm" target="_blank" alt="Einstein Next Best Action">Einstein Next Best Action</a></li>
 
 <li><a href="https://releasenotes.docs.salesforce.com/en-us/spring19/release-notes/rn_forcecom_einstein.htm" target="_blank" alt="Einstein Customization: Next Best Action and Prediction Builder">Einstein Customization: Next Best Action and Prediction Builder</a></li>
