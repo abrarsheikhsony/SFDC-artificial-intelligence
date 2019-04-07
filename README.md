@@ -347,17 +347,31 @@ Einstein can be viewed as two categories:
 ## Salesforce and Google
 <ul>
 
+<li><a href="https://cloud.google.com/salesforce/" target="_blank" alt="Salesforce and Google">Salesforce and Google</a></li>
+
 <li><a href="https://trailhead.salesforce.com/content/learn/projects/query-github-data-using-bigquery" target="_blank" alt="Trailhead Project: Query GitHub Data Using BigQuery">Trailhead Project: Query GitHub Data Using BigQuery</a></li>
 
 <li><a href="https://trailhead.salesforce.com/content/learn/trails/understand-your-web-users-with-google-analytics" target="_blank" alt="Trail: Understand Your Web Users with Google Analytics">Trail: Understand Your Web Users with Google Analytics</a></li>
 
-<li><a href="TEST" target="_blank" alt="TEST">TEST</a></li>
+<li><a href="https://www.marketingweek.com/2019/02/28/brands-voice-ai-into-action/" target="_blank" alt="Giving brands a voice">Giving brands a voice</a></li>
 
-<li><a href="TEST" target="_blank" alt="TEST">TEST</a></li>
+<li><a href="https://www.salesforce.com/video/2520446/" target="_blank" alt="Dreamforce: Voice Assisted Analytics in Salesforce Using Google Home">Dreamforce: Voice Assisted Analytics in Salesforce Using Google Home</a></li>
 
-<li><a href="TEST" target="_blank" alt="TEST">TEST</a></li>
+<li><a href="https://www.youtube.com/watch?v=eBst4WsYvLM" target="_blank" alt="YouTube: Voice Assisted Analytics in Salesforce Using Google Home">YouTube: Voice Assisted Analytics in Salesforce Using Google Home</a></li>
 
-<li><a href="TEST" target="_blank" alt="TEST">TEST</a></li>
+<li><a href="https://github.com/kofijohnson/Salesforce-GoogleAssistant" target="_blank" alt="GitHub: Salesforce Google Assistant">GitHub: Salesforce Google Assistant</a></li>
+
+<li><a href="https://www.youtube.com/watch?v=7ozkrz_upwI" target="_blank" alt="Youtube: Google home integration with Salesforce">Youtube: Google home integration with Salesforce</a></li>
+
+<li><a href="https://blogs.absyz.com/2018/08/30/google-assistant-integration-with-salesforce-part-1/" target="_blank" alt="Blog: Google Assistant Integration with Salesforce – Part 1">Blog: Google Assistant Integration with Salesforce – Part 1</a></li>
+
+<li><a href="https://blogs.absyz.com/2018/09/07/google-assistant-integration-with-salesforce-part-2/" target="_blank" alt="Blog: Google Assistant Integration with Salesforce – Part 2">Blog: Google Assistant Integration with Salesforce – Part 2</a></li>
+
+<li><a href="https://ifttt.com/connect/salesforce/google_assistant" target="_blank" alt="Connector: Connect Salesforce to Google Assistant">Connector: Connect Salesforce to Google Assistant</a></li>
+
+<li><a href="https://cloud.google.com/docs/" target="_blank" alt="Google Cloud Platform">Google Cloud Platform</a></li>
+
+<li><a href="https://dialogflow.com/docs/getting-started" target="_blank" alt="Google Diagflow">Google Diagflow</a></li>
 
 </ul>
 
