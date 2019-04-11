@@ -354,6 +354,8 @@ Einstein can be viewed as two categories:
 
 <li><a href="https://cloud.google.com/salesforce/" target="_blank" alt="Salesforce and Google">Salesforce and Google</a></li>
 
+<li><a href="https://techcrunch.com/2019/04/10/salesforce-and-google-want-to-build-a-smarter-customer-service-experience/" target="_blank" alt="Salesforce and Google want to build a smarter customer service experience">Salesforce and Google want to build a smarter customer service experience</a></li>
+
 <li><a href="https://trailhead.salesforce.com/content/learn/projects/query-github-data-using-bigquery" target="_blank" alt="Trailhead Project: Query GitHub Data Using BigQuery">Trailhead Project: Query GitHub Data Using BigQuery</a></li>
 
 <li><a href="https://trailhead.salesforce.com/content/learn/trails/understand-your-web-users-with-google-analytics" target="_blank" alt="Trail: Understand Your Web Users with Google Analytics">Trail: Understand Your Web Users with Google Analytics</a></li>
