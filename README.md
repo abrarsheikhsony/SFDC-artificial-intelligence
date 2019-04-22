@@ -330,6 +330,8 @@ Einstein can be viewed as two categories:
 
 <li><a href="https://developer.salesforce.com/blogs/developer-relations/2017/03/bot-toolkit-creating-deploying-bots-inside-salesforce.html" target="_blank" alt="Salesforce Blog: A Toolkit for Creating and Deploying Bots Inside Salesforce">Salesforce Blog: A Toolkit for Creating and Deploying Bots Inside Salesforce</a></li>
 
+<li><a href="https://appexchange.salesforce.com/appxListingDetail?listingId=a0N3A00000EtEWmUAN" target="_blank" alt="AppExchange App: Robot Framework By Salesforce Labs">AppExchange App: Robot Framework By Salesforce Labs</a></li>
+
 </ul>
 
 <li>Einstein Voice</li>
@@ -394,13 +396,32 @@ Einstein can be viewed as two categories:
 
 <li><a href="https://blogs.absyz.com/2018/09/07/google-assistant-integration-with-salesforce-part-2/" target="_blank" alt="Blog: Google Assistant Integration with Salesforce – Part 2">Blog: Google Assistant Integration with Salesforce – Part 2</a></li>
 
-<li><a href="https://ifttt.com/connect/salesforce/google_assistant" target="_blank" alt="Connector: Connect Salesforce to Google Assistant">Connector: Connect Salesforce to Google Assistant</a></li>
-
 <li><a href="https://cloud.google.com/docs/" target="_blank" alt="Google Cloud Platform">Google Cloud Platform</a></li>
 
 <li><a href="https://dialogflow.com/docs/getting-started" target="_blank" alt="Google Diagflow">Google Diagflow</a></li>
 
 </ul>
+
+## IFTTT (If This Then That): Integrate Salesforce with Google 
+<ul>
+
+<li><a href="https://ifttt.com/" target="_blank" alt="IFTTT (If This Then That)">IFTTT (If This Then That)</a></li>
+
+<li><a href="https://platform.ifttt.com/" target="_blank" alt="IFTTT Platform">IFTTT Platform</a></li>
+
+<li><a href="https://www.salesforce.com/blog/2015/10/salesforce-channel-ifttt.html" target="_blank" alt="Salesforce Blog: IFTTT - More Channels to Use, More Salesforce to Love">Salesforce Blog: IFTTT - More Channels to Use, More Salesforce to Love</a></li>
+
+<li><a href="https://ifttt-salesforce.herokuapp.com/help" target="_blank" alt="IFTTT Salesforce Help">IFTTT Salesforce Help</a></li>
+
+<li><a href="https://ifttt.com/salesforce" target="_blank" alt="IFTTT for Salesforce">IFTTT for Salesforce</a></li>
+
+<li><a href="https://ifttt.com/connect/salesforce/google_assistant" target="_blank" alt="Connector: Connect Salesforce to Google Assistant">Connector: Connect Salesforce to Google Assistant</a></li>
+
+<li><a href="https://appexchange.salesforce.com/appxListingDetail?listingId=a0N30000000qgiiEAA" target="_blank" alt="AppExchange App: IFTTT for Salesforce">AppExchange App: IFTTT for Salesforce</a></li>
+
+</ul>
+
+
 
 ## Salesforce and Amazon, Alexa
 <ul>
@@ -476,6 +497,8 @@ Einstein can be viewed as two categories:
 
 ## Others
 <ul>
+
+<li><a href="https://www.smalltalk.agency/" target="_blank" alt="SmallTalk">SmallTalk</a></li>
 
 <li><a href="https://www.inc.com/rebecca-hinds/by-2020-youre-more-likely-to-have-a-conversation-with-this-than-with-your-spouse.html" target="_blank" alt="By 2020, You're More Likely to Have a Conversation With This Than With Your Spouse">By 2020, You're More Likely to Have a Conversation With This Than With Your Spouse</a></li>
 
