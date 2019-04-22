@@ -332,6 +332,19 @@ Einstein can be viewed as two categories:
 
 </ul>
 
+<li>Einstein Voice</li>
+
+<ul>
+
+<li><a href="https://www.youtube.com/watch?v=1l6D4TWnDq0" target="_blank" alt="YouTube: Introducing Einstein Voice">YouTube: Introducing Einstein Voice</a></li>
+
+<li><a href="https://www.youtube.com/watch?v=iw3nzCWdsU0" target="_blank" alt="YouTube: Trailblazer Moment - Say Hello to Einstein Voice">YouTube: Trailblazer Moment - Say Hello to Einstein Voice</a></li>
+
+<li><a href="https://www.salesforce.com/blog/2018/09/introducing-einstein-voice.html" target="_blank" alt="Salesforce Dreamforce: Introducing New Einstein Voice – You Talk, AI Listens">Salesforce Dreamforce: Introducing New Einstein Voice – You Talk, AI Listens</a></li>
+
+</ul>
+
+
 </ul>
 
 
