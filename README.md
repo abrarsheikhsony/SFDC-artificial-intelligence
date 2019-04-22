@@ -402,7 +402,7 @@ Einstein can be viewed as two categories:
 
 </ul>
 
-## IFTTT (If This Then That): Integrate Salesforce with Google 
+## IFTTT (If This Then That): Integrate Salesforce with Gadgets (e.g. Google, Alexa etc.) 
 <ul>
 
 <li><a href="https://ifttt.com/" target="_blank" alt="IFTTT (If This Then That)">IFTTT (If This Then That)</a></li>
@@ -421,7 +421,12 @@ Einstein can be viewed as two categories:
 
 </ul>
 
+## Hi9: Integrate Salesforce with Gadgets (e.g. Google, Alexa etc.) 
+<ul>
 
+<li><a href="https://hi9.io/" target="_blank" alt="Hi9">Hi9</a></li>
+
+</ul>
 
 ## Salesforce and Amazon, Alexa
 <ul>
@@ -509,5 +514,7 @@ Einstein can be viewed as two categories:
 <li><a href="https://www.nngroup.com/articles/intelligent-assistant-usability/" target="_blank" alt="Intelligent Assistants Have Poor Usability: A User Study of Alexa, Google Assistant, and Siri">Intelligent Assistants Have Poor Usability: A User Study of Alexa, Google Assistant, and Siri</a></li>
 
 <li><a href="https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471" target="_blank" alt="Machine Learning is Fun!">Machine Learning is Fun!</a></li>
+
+<li><a href="https://www.xnextcon.com/" target="_blank" alt="AI NextCon">AI NextCon</a></li>
 
 </ul>
