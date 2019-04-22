@@ -324,6 +324,13 @@ Einstein can be viewed as two categories:
 
 </ul>
 
+<li>Custom Bots Inside Salesforce</li>
+
+<ul>
+
+<li><a href="https://developer.salesforce.com/blogs/developer-relations/2017/03/bot-toolkit-creating-deploying-bots-inside-salesforce.html" target="_blank" alt="Salesforce Blog: A Toolkit for Creating and Deploying Bots Inside Salesforce">Salesforce Blog: A Toolkit for Creating and Deploying Bots Inside Salesforce</a></li>
+
+</ul>
 
 </ul>
 
