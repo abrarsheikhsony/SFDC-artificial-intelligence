@@ -157,19 +157,20 @@ Einstein can be viewed as two categories:
 
 <ul>
 
-<li>Einstein Bots</li>
-
-<li>Einstein Voice (Pilot feature)</li>
+<li>Einstein Analytics</li>
 <ul>
-<li>Einstein Voice Assistant = enabling your organization</li>
-<li>Einstein Voice Bots = enabling your customers</li>
+<li><a href="https://trailhead.salesforce.com/content/learn/modules/data-architecture-designer-maintenance-spring19/maintain-your-data-architecture-designer-cert-spring19" target="_blank" alt="Einstein Data Insightsh">Einstein Data Insights</a></li>
+<ul>
+<li>Introducing Einstein Data Insights: a smarter report. Einstein analyzes report data and summarizes key takeaways, comparisons, and trends with insightful charts and metrics. It’s one-click data science!</li>
+<li>Einstein Data Insights extends your reports with AI to help you discover new and useful insights about your data. To view an insight, you need the “Can Run Einstein Data Insights” user permission that’s included in the Einstein Analytics Plus license.</li>
+<li>Einstein Analytics and Einstein Data Insights are available for an extra cost in Enterprise, Performance, and Unlimited Editions. (Also available in Developer Edition.)</li>
+</ul>  
 </ul>
 
-<li>Einstein Next Best Action (NBA) / Einstein Recommendations</li>
+<li>Einstein Discovery</li>
 <ul>
-<li>Allows you to use rules-based and predictive models</li>
-<li>Intelligent, contextual recommendations and offers</li>
-<li>Strategy Builder is a point-and-click automation tool for creating strategies for Einstein Next Best Action</li>
+<li>It is meant for Analysts</li>
+<li>To make sense out of data and share these insights with the respective teams so that they can operate smarter and more efficiently</li>
 </ul>
 
 <li>Einstein Prediction Builder</li>
@@ -179,10 +180,19 @@ Einstein can be viewed as two categories:
 <li>Do I want to predict an amount? (Regression—in Beta)</li>
 </ul>
 
-<li>Einstein Discovery</li>
+<li>Einstein Next Best Action (NBA) / Einstein Recommendations</li>
 <ul>
-<li>It is meant for Analysts</li>
-<li>To make sense out of data and share these insights with the respective teams so that they can operate smarter and more efficiently</li>
+<li>Allows you to use rules-based and predictive models</li>
+<li>Intelligent, contextual recommendations and offers</li>
+<li>Strategy Builder is a point-and-click automation tool for creating strategies for Einstein Next Best Action</li>
+</ul>
+
+<li>Einstein Bots</li>
+
+<li>Einstein Voice (Pilot feature)</li>
+<ul>
+<li>Einstein Voice Assistant = enabling your organization</li>
+<li>Einstein Voice Bots = enabling your customers</li>
 </ul>
 
 <li>Einstein Vision and Language</li>
@@ -217,6 +227,13 @@ Einstein can be viewed as two categories:
 </ul>
 
 </ul>
+
+
+<li><a href="https://trailhead.salesforce.com/content/learn/modules/mobile-solutions-architecture-maintenance-spring19/maintain-your-mobile-solutions-cert-spring19" target="_blank" alt="Translate Community Feed Items on Your Mobile Device">Translate Community Feed Items on Your Mobile Device</a></li>
+<ul>
+<li>With Spring ’19, add a Translate with Google button to every post, question, comment, answer, and reply to let users translate content, even on mobile. Translations are offered through a Google Cloud Translation API key that you provide. Over 50 languages are available to get people talking.</li>
+</ul>
+
 
 </ul>
 
