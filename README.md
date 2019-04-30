@@ -429,6 +429,8 @@ Einstein can be viewed as two categories:
 ## IFTTT (If This Then That): Integrate Salesforce with Gadgets (e.g. Google, Alexa etc.) 
 <ul>
 
+<li><a href="https://success.salesforce.com/_ui/core/chatter/groups/GroupProfilePage?g=0F9300000009Q34" target="_blank" alt="Salesforce Community Group: Salesforce IFTTT">Salesforce Community Group: Salesforce IFTTT</a></li>
+
 <li><a href="https://ifttt.com/" target="_blank" alt="IFTTT (If This Then That)">IFTTT (If This Then That)</a></li>
 
 <li><a href="https://platform.ifttt.com/" target="_blank" alt="IFTTT Platform">IFTTT Platform</a></li>
