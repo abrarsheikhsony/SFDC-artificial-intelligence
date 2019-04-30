@@ -193,6 +193,7 @@ Einstein can be viewed as two categories:
 <ul>
 <li>Einstein Voice Assistant = enabling your organization</li>
 <li>Einstein Voice Bots = enabling your customers</li>
+<li><a href="https://twistellar.com/einstein-voice-assistant" target="_blank" alt="Salesforce created integrations for Einstein Voice with Amazon Alexa and Google Home">Salesforce created integrations for Einstein Voice with Amazon Alexa and Google Home</a></li>
 </ul>
 
 <li>Einstein Vision and Language</li>
@@ -391,7 +392,13 @@ Einstein can be viewed as two categories:
 ## Salesforce and Google
 <ul>
 
+<li><a href="https://www.salesforce.com/campaign/google/" target="_blank" alt="Salesforce and Google: A relationship for your customer relationships">Salesforce and Google: A relationship for your customer relationships</a></li>
+
 <li><a href="https://cloud.google.com/salesforce/" target="_blank" alt="Salesforce and Google">Salesforce and Google</a></li>
+
+<li><a href="https://developers.google.com/gdata/articles/salesforce" target="_blank" alt="REST for the Traveling Salesman: Using Google Data on Salesforce.com">REST for the Traveling Salesman: Using Google Data on Salesforce.com</a></li>
+
+<li><a href="https://developers.google.com/actions/support/" target="_blank" alt="Actions on Google Community and Support">Actions on Google Community and Support</a></li>
 
 <li><a href="https://techcrunch.com/2019/04/10/salesforce-and-google-want-to-build-a-smarter-customer-service-experience/" target="_blank" alt="Salesforce and Google want to build a smarter customer service experience">Salesforce and Google want to build a smarter customer service experience</a></li>
 
